@@ -1,0 +1,8 @@
+product_id,product_name,product_family,term_years,issue_age_min,issue_age_max,min_face_amount,max_face_amount,base_rate_per_1000,target_segment
+PRD_TERM10,SecureTerm 10,Term Life,10,18,70,50000,1500000,1.28,Mortgage protection and income replacement
+PRD_TERM20,SecureTerm 20,Term Life,20,18,65,100000,2000000,1.64,Family protection
+PRD_TERM30,SecureTerm 30,Term Life,30,18,55,100000,2500000,2.08,Young families and long-duration needs
+PRD_WL100,Lifetime Whole Life,Whole Life,0,18,80,25000,1000000,9.8,Permanent protection and legacy planning
+PRD_UL,Flex Universal Life,Universal Life,0,25,75,100000,3000000,5.6,Flexible permanent coverage
+PRD_IUL,Index Builder IUL,Indexed UL,0,25,70,100000,2500000,6.4,Accumulation-oriented permanent coverage
+PRD_FE,Final Expense Protector,Final Expense,0,50,85,5000,50000,14.5,Simplified issue final expense

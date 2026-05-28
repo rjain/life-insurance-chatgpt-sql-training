@@ -1,0 +1,1201 @@
+agent_id,channel,sales_region,agent_tier,appointment_date,tenure_years,rolling_13_month_persistency_pct,manager_id
+AGT00001,Brokerage,South,Developing,2014-07-02,5,86.1,MGR053
+AGT00002,Career Agent,South,Platinum,2022-09-05,7,94.4,MGR067
+AGT00003,Direct Digital,South,Developing,2022-07-17,0,80.9,MGR057
+AGT00004,Career Agent,South,Developing,2019-11-26,6,75.9,MGR013
+AGT00005,Career Agent,Northeast,Silver,2020-03-21,3,83.1,MGR042
+AGT00006,Worksite,Midwest,Silver,2016-12-19,0,89.8,MGR075
+AGT00007,Career Agent,South,Silver,2017-12-21,0,80.6,MGR010
+AGT00008,Career Agent,South,Gold,2019-02-27,0,80.3,MGR036
+AGT00009,Bank Partner,Northeast,Developing,2024-01-24,6,83.5,MGR017
+AGT00010,Career Agent,West,Silver,2020-09-04,1,85.5,MGR025
+AGT00011,Bank Partner,West,Silver,2017-07-15,9,80.0,MGR068
+AGT00012,Brokerage,South,Silver,2018-01-29,0,87.4,MGR057
+AGT00013,Bank Partner,South,Developing,2014-12-04,4,81.4,MGR071
+AGT00014,Career Agent,South,Developing,2021-05-21,0,86.4,MGR020
+AGT00015,Brokerage,Midwest,Silver,2020-09-25,6,77.1,MGR060
+AGT00016,Career Agent,Midwest,Developing,2013-04-27,14,81.2,MGR021
+AGT00017,Career Agent,South,Silver,2013-07-13,5,83.4,MGR066
+AGT00018,Worksite,South,Platinum,2019-02-19,3,88.4,MGR086
+AGT00019,Direct Digital,Northeast,Developing,2019-06-17,9,83.2,MGR005
+AGT00020,Direct Digital,Midwest,Gold,2022-02-13,9,95.8,MGR029
+AGT00021,Worksite,Northeast,Gold,2012-06-01,3,87.9,MGR064
+AGT00022,Direct Digital,West,Silver,2022-03-10,17,87.3,MGR069
+AGT00023,Brokerage,South,Developing,2021-11-17,1,93.1,MGR079
+AGT00024,Bank Partner,Midwest,Developing,2018-05-01,4,94.9,MGR024
+AGT00025,Brokerage,South,Developing,2017-12-24,12,81.1,MGR087
+AGT00026,Career Agent,West,Silver,2021-08-30,1,95.1,MGR018
+AGT00027,Brokerage,South,Developing,2012-01-21,35,85.1,MGR047
+AGT00028,Career Agent,Midwest,Gold,2019-11-05,5,95.3,MGR037
+AGT00029,Career Agent,Midwest,Gold,2016-06-05,25,86.0,MGR076
+AGT00030,Career Agent,Northeast,Platinum,2022-02-19,7,82.6,MGR004
+AGT00031,Brokerage,West,Gold,2018-10-18,1,97.8,MGR088
+AGT00032,Worksite,South,Gold,2021-05-18,7,82.5,MGR056
+AGT00033,Direct Digital,Northeast,Silver,2023-09-11,1,94.9,MGR016
+AGT00034,Career Agent,South,Developing,2014-12-12,4,91.9,MGR034
+AGT00035,Direct Digital,West,Gold,2023-06-14,4,92.4,MGR085
+AGT00036,Career Agent,West,Silver,2015-02-23,10,82.7,MGR053
+AGT00037,Direct Digital,Midwest,Developing,2016-12-03,2,76.7,MGR005
+AGT00038,Career Agent,South,Developing,2014-07-29,14,92.2,MGR013
+AGT00039,Direct Digital,South,Silver,2017-07-01,11,87.2,MGR057
+AGT00040,Career Agent,South,Developing,2013-11-28,0,88.8,MGR043
+AGT00041,Direct Digital,Midwest,Silver,2014-10-11,0,87.2,MGR001
+AGT00042,Career Agent,Midwest,Developing,2016-03-21,2,82.8,MGR068
+AGT00043,Direct Digital,Midwest,Silver,2017-09-22,0,77.8,MGR089
+AGT00044,Career Agent,Midwest,Gold,2018-11-30,6,91.4,MGR063
+AGT00045,Direct Digital,Midwest,Developing,2017-06-28,13,90.4,MGR075
+AGT00046,Brokerage,West,Developing,2023-04-21,10,82.8,MGR027
+AGT00047,Brokerage,Northeast,Developing,2019-02-11,10,94.5,MGR007
+AGT00048,Direct Digital,South,Developing,2013-03-31,3,84.8,MGR003
+AGT00049,Brokerage,Northeast,Developing,2023-10-04,0,94.8,MGR014
+AGT00050,Bank Partner,South,Silver,2019-07-05,13,77.0,MGR023
+AGT00051,Career Agent,Midwest,Developing,2019-06-26,2,85.3,MGR060
+AGT00052,Career Agent,South,Silver,2017-08-05,5,72.6,MGR075
+AGT00053,Career Agent,South,Silver,2015-04-10,3,75.2,MGR016
+AGT00054,Brokerage,Midwest,Silver,2016-06-01,9,75.0,MGR084
+AGT00055,Brokerage,West,Developing,2024-03-10,5,83.7,MGR061
+AGT00056,Career Agent,West,Developing,2023-10-01,3,97.9,MGR020
+AGT00057,Brokerage,Midwest,Developing,2024-05-13,6,89.0,MGR015
+AGT00058,Direct Digital,Midwest,Developing,2015-01-18,0,89.6,MGR056
+AGT00059,Bank Partner,Midwest,Developing,2024-08-06,5,79.2,MGR030
+AGT00060,Career Agent,West,Silver,2021-12-11,0,81.4,MGR001
+AGT00061,Worksite,West,Developing,2016-09-15,10,81.0,MGR001
+AGT00062,Career Agent,West,Gold,2012-08-10,4,86.6,MGR013
+AGT00063,Career Agent,South,Silver,2016-09-16,5,87.5,MGR074
+AGT00064,Career Agent,South,Developing,2020-11-29,5,82.1,MGR007
+AGT00065,Worksite,West,Gold,2024-05-14,7,98,MGR025
+AGT00066,Bank Partner,West,Developing,2024-10-11,5,77.6,MGR078
+AGT00067,Worksite,Northeast,Developing,2021-11-16,11,85.6,MGR050
+AGT00068,Worksite,West,Developing,2014-03-30,5,84.5,MGR008
+AGT00069,Worksite,South,Developing,2016-05-29,2,75.4,MGR052
+AGT00070,Direct Digital,West,Gold,2020-08-03,0,98,MGR034
+AGT00071,Career Agent,Midwest,Silver,2012-05-20,4,85.6,MGR061
+AGT00072,Career Agent,West,Silver,2018-08-09,0,86.6,MGR064
+AGT00073,Bank Partner,West,Developing,2019-01-18,25,89.4,MGR079
+AGT00074,Bank Partner,West,Developing,2014-03-24,3,85.3,MGR016
+AGT00075,Brokerage,Midwest,Gold,2020-01-15,0,98,MGR015
+AGT00076,Direct Digital,West,Platinum,2020-05-21,1,91.3,MGR032
+AGT00077,Direct Digital,Northeast,Developing,2013-07-06,3,91.4,MGR060
+AGT00078,Brokerage,South,Silver,2013-12-30,28,88.6,MGR062
+AGT00079,Bank Partner,Northeast,Platinum,2020-05-02,1,80.5,MGR052
+AGT00080,Brokerage,West,Developing,2020-06-29,9,97.2,MGR025
+AGT00081,Career Agent,South,Silver,2023-03-13,3,76.0,MGR037
+AGT00082,Direct Digital,West,Silver,2021-03-05,1,95.5,MGR010
+AGT00083,Direct Digital,West,Gold,2015-06-08,1,91.2,MGR032
+AGT00084,Direct Digital,Northeast,Developing,2024-02-18,18,83.0,MGR001
+AGT00085,Career Agent,West,Silver,2015-04-21,3,97.2,MGR025
+AGT00086,Career Agent,West,Gold,2024-10-17,1,98,MGR059
+AGT00087,Bank Partner,Northeast,Silver,2022-06-12,1,78.3,MGR066
+AGT00088,Career Agent,South,Platinum,2024-03-11,1,95.8,MGR055
+AGT00089,Brokerage,South,Silver,2020-02-22,1,75.6,MGR026
+AGT00090,Career Agent,Midwest,Developing,2018-08-07,4,88.7,MGR039
+AGT00091,Brokerage,West,Developing,2015-05-13,11,87.3,MGR022
+AGT00092,Direct Digital,South,Developing,2012-08-24,0,95.1,MGR005
+AGT00093,Career Agent,Midwest,Developing,2023-04-14,0,89.7,MGR045
+AGT00094,Bank Partner,South,Silver,2017-02-05,16,85.4,MGR073
+AGT00095,Career Agent,Midwest,Silver,2013-12-19,14,90.3,MGR070
+AGT00096,Worksite,Midwest,Platinum,2020-11-17,0,96.5,MGR070
+AGT00097,Career Agent,West,Silver,2012-11-24,7,83.7,MGR033
+AGT00098,Brokerage,South,Developing,2013-04-28,5,81.5,MGR036
+AGT00099,Direct Digital,South,Gold,2015-06-30,1,98,MGR013
+AGT00100,Bank Partner,Northeast,Developing,2020-05-12,8,80.9,MGR029
+AGT00101,Direct Digital,South,Gold,2015-03-10,7,93.7,MGR028
+AGT00102,Brokerage,Midwest,Silver,2024-11-01,0,90.4,MGR078
+AGT00103,Worksite,South,Developing,2019-01-03,11,89.1,MGR084
+AGT00104,Direct Digital,Midwest,Silver,2014-07-18,5,92.1,MGR085
+AGT00105,Career Agent,Northeast,Silver,2022-02-18,4,97.3,MGR008
+AGT00106,Brokerage,South,Gold,2016-12-10,4,98,MGR023
+AGT00107,Brokerage,Northeast,Gold,2016-03-07,0,89.1,MGR050
+AGT00108,Career Agent,South,Developing,2017-12-11,1,89.7,MGR035
+AGT00109,Brokerage,Midwest,Developing,2023-07-17,14,96.8,MGR048
+AGT00110,Career Agent,South,Developing,2020-09-13,6,84.2,MGR009
+AGT00111,Brokerage,South,Gold,2014-01-01,1,82.5,MGR036
+AGT00112,Career Agent,Midwest,Developing,2023-10-29,6,82.2,MGR004
+AGT00113,Career Agent,South,Silver,2017-08-29,2,81.0,MGR043
+AGT00114,Brokerage,West,Silver,2024-03-17,10,82.9,MGR002
+AGT00115,Career Agent,Northeast,Gold,2012-11-04,6,98,MGR045
+AGT00116,Direct Digital,South,Gold,2015-06-27,0,98,MGR004
+AGT00117,Worksite,West,Gold,2016-08-09,1,86.2,MGR018
+AGT00118,Direct Digital,South,Silver,2024-09-21,10,95.8,MGR028
+AGT00119,Career Agent,Midwest,Developing,2013-01-24,9,92.1,MGR009
+AGT00120,Worksite,Midwest,Gold,2014-03-18,7,85.8,MGR013
+AGT00121,Career Agent,Midwest,Gold,2018-08-01,1,94.2,MGR081
+AGT00122,Bank Partner,South,Silver,2018-08-16,6,93.6,MGR031
+AGT00123,Brokerage,South,Silver,2015-07-01,4,92.9,MGR024
+AGT00124,Brokerage,South,Developing,2019-01-22,3,79.5,MGR006
+AGT00125,Bank Partner,South,Developing,2019-09-18,16,90.9,MGR039
+AGT00126,Career Agent,South,Developing,2014-08-21,0,84.8,MGR056
+AGT00127,Career Agent,Midwest,Silver,2021-09-07,3,90.4,MGR067
+AGT00128,Career Agent,Northeast,Silver,2016-05-22,1,79.3,MGR084
+AGT00129,Bank Partner,West,Platinum,2019-07-21,1,89.1,MGR082
+AGT00130,Worksite,South,Silver,2012-08-18,1,86.5,MGR063
+AGT00131,Direct Digital,Midwest,Gold,2021-12-21,0,88.3,MGR031
+AGT00132,Direct Digital,Midwest,Gold,2021-02-19,5,83.3,MGR050
+AGT00133,Brokerage,South,Silver,2019-02-06,9,96.2,MGR073
+AGT00134,Bank Partner,South,Gold,2014-10-17,13,90.8,MGR081
+AGT00135,Career Agent,South,Developing,2014-11-27,2,90.1,MGR040
+AGT00136,Direct Digital,Northeast,Silver,2019-07-04,6,85.8,MGR077
+AGT00137,Career Agent,West,Developing,2014-11-15,0,90.5,MGR020
+AGT00138,Career Agent,South,Platinum,2015-04-20,2,94.9,MGR020
+AGT00139,Worksite,Northeast,Silver,2020-07-11,1,78.1,MGR082
+AGT00140,Career Agent,South,Developing,2014-10-03,9,76.6,MGR086
+AGT00141,Bank Partner,Northeast,Gold,2017-08-31,5,90.5,MGR024
+AGT00142,Direct Digital,West,Developing,2015-05-06,5,81.4,MGR090
+AGT00143,Bank Partner,South,Developing,2021-08-27,7,81.1,MGR062
+AGT00144,Direct Digital,South,Developing,2017-07-09,2,83.8,MGR017
+AGT00145,Career Agent,Northeast,Gold,2015-02-23,0,90.5,MGR083
+AGT00146,Career Agent,Midwest,Developing,2014-04-10,3,94.7,MGR080
+AGT00147,Brokerage,West,Gold,2021-01-25,5,85.9,MGR052
+AGT00148,Brokerage,Northeast,Developing,2017-02-20,2,84.3,MGR049
+AGT00149,Bank Partner,South,Silver,2018-09-01,9,96.1,MGR088
+AGT00150,Career Agent,South,Gold,2024-10-25,3,96.0,MGR080
+AGT00151,Career Agent,Northeast,Platinum,2019-06-26,1,94.7,MGR083
+AGT00152,Brokerage,South,Gold,2022-05-25,0,92.5,MGR067
+AGT00153,Brokerage,Midwest,Developing,2014-08-23,2,86.4,MGR077
+AGT00154,Worksite,South,Platinum,2017-12-26,2,95.7,MGR082
+AGT00155,Career Agent,South,Developing,2024-04-24,3,86.8,MGR075
+AGT00156,Brokerage,Midwest,Silver,2017-08-24,4,85.7,MGR062
+AGT00157,Direct Digital,Midwest,Silver,2023-12-07,1,76.9,MGR041
+AGT00158,Direct Digital,Northeast,Developing,2015-09-17,17,86.5,MGR040
+AGT00159,Worksite,West,Silver,2016-09-10,0,89.8,MGR069
+AGT00160,Career Agent,West,Gold,2014-11-24,14,89.1,MGR070
+AGT00161,Career Agent,West,Silver,2019-08-18,2,87.4,MGR016
+AGT00162,Career Agent,Northeast,Developing,2012-10-07,6,90.7,MGR064
+AGT00163,Worksite,Northeast,Silver,2023-10-02,4,79.6,MGR068
+AGT00164,Career Agent,West,Developing,2018-04-23,3,88.0,MGR080
+AGT00165,Bank Partner,West,Gold,2023-06-21,2,84.9,MGR012
+AGT00166,Career Agent,Midwest,Gold,2019-09-01,18,89.8,MGR087
+AGT00167,Direct Digital,West,Gold,2013-08-26,1,98,MGR071
+AGT00168,Career Agent,West,Silver,2014-07-09,2,87.9,MGR081
+AGT00169,Brokerage,West,Silver,2023-12-10,5,91.5,MGR081
+AGT00170,Career Agent,West,Developing,2022-09-16,1,88.8,MGR023
+AGT00171,Direct Digital,Midwest,Silver,2017-11-22,0,92.0,MGR008
+AGT00172,Brokerage,Midwest,Gold,2020-12-27,15,83.5,MGR061
+AGT00173,Direct Digital,West,Developing,2016-02-19,0,81.8,MGR068
+AGT00174,Brokerage,South,Silver,2019-11-08,4,92.8,MGR029
+AGT00175,Direct Digital,South,Silver,2022-07-19,3,80.7,MGR051
+AGT00176,Career Agent,Midwest,Gold,2012-12-20,2,98,MGR079
+AGT00177,Career Agent,South,Developing,2017-02-17,2,89.3,MGR056
+AGT00178,Brokerage,South,Developing,2016-03-17,0,80.4,MGR029
+AGT00179,Career Agent,South,Developing,2012-12-21,3,87.9,MGR032
+AGT00180,Brokerage,Northeast,Silver,2019-07-23,7,98,MGR073
+AGT00181,Direct Digital,West,Gold,2015-11-25,4,83.0,MGR015
+AGT00182,Career Agent,Midwest,Silver,2014-12-02,0,89.7,MGR017
+AGT00183,Bank Partner,Midwest,Gold,2022-01-22,11,91.2,MGR081
+AGT00184,Career Agent,West,Developing,2022-04-15,2,80.0,MGR042
+AGT00185,Direct Digital,South,Platinum,2020-06-26,0,79.3,MGR037
+AGT00186,Career Agent,West,Silver,2023-05-25,8,78.7,MGR044
+AGT00187,Direct Digital,South,Gold,2020-11-18,0,89.2,MGR063
+AGT00188,Bank Partner,West,Developing,2017-04-14,31,80.9,MGR034
+AGT00189,Direct Digital,West,Platinum,2018-04-20,2,85.8,MGR038
+AGT00190,Career Agent,South,Silver,2017-08-22,3,95.4,MGR049
+AGT00191,Career Agent,South,Silver,2019-04-12,12,93.7,MGR002
+AGT00192,Bank Partner,West,Silver,2016-12-04,2,89.8,MGR080
+AGT00193,Brokerage,Northeast,Developing,2016-03-17,4,79.1,MGR023
+AGT00194,Bank Partner,South,Silver,2020-05-01,1,83.8,MGR005
+AGT00195,Career Agent,South,Silver,2012-09-13,21,86.7,MGR024
+AGT00196,Bank Partner,West,Developing,2012-01-16,12,79.1,MGR078
+AGT00197,Worksite,South,Developing,2015-12-21,13,78.0,MGR056
+AGT00198,Direct Digital,South,Silver,2013-08-03,11,85.8,MGR009
+AGT00199,Brokerage,West,Developing,2020-12-04,5,79.8,MGR012
+AGT00200,Brokerage,South,Gold,2021-07-29,14,88.9,MGR007
+AGT00201,Direct Digital,West,Gold,2015-09-10,6,86.3,MGR023
+AGT00202,Direct Digital,Midwest,Gold,2012-03-15,21,92.8,MGR076
+AGT00203,Direct Digital,South,Gold,2016-05-27,6,94.8,MGR057
+AGT00204,Career Agent,South,Silver,2017-02-20,1,86.1,MGR010
+AGT00205,Brokerage,Northeast,Silver,2013-09-25,10,95.2,MGR041
+AGT00206,Worksite,Northeast,Platinum,2013-06-28,9,91.7,MGR031
+AGT00207,Career Agent,Midwest,Developing,2016-07-11,13,82.9,MGR058
+AGT00208,Brokerage,West,Silver,2017-07-31,10,77.8,MGR042
+AGT00209,Bank Partner,West,Platinum,2012-04-16,3,98,MGR016
+AGT00210,Brokerage,South,Silver,2012-09-17,1,77.4,MGR047
+AGT00211,Bank Partner,West,Silver,2019-08-27,3,82.2,MGR075
+AGT00212,Bank Partner,Northeast,Developing,2021-09-10,0,84.5,MGR034
+AGT00213,Brokerage,Northeast,Silver,2021-09-01,4,93.0,MGR075
+AGT00214,Worksite,Midwest,Gold,2016-04-08,5,87.6,MGR036
+AGT00215,Worksite,Northeast,Silver,2016-08-01,9,90.9,MGR061
+AGT00216,Career Agent,West,Silver,2019-10-14,1,92.1,MGR079
+AGT00217,Brokerage,South,Platinum,2021-03-24,1,95.2,MGR052
+AGT00218,Brokerage,West,Silver,2012-04-09,3,81.7,MGR066
+AGT00219,Career Agent,West,Silver,2020-09-14,1,89.0,MGR038
+AGT00220,Brokerage,Midwest,Silver,2014-12-07,0,80.0,MGR069
+AGT00221,Career Agent,Northeast,Gold,2019-12-21,14,89.4,MGR047
+AGT00222,Brokerage,Northeast,Developing,2020-07-05,0,98,MGR032
+AGT00223,Career Agent,South,Developing,2015-07-12,9,84.7,MGR056
+AGT00224,Direct Digital,West,Silver,2019-08-15,0,83.3,MGR084
+AGT00225,Brokerage,Northeast,Gold,2012-02-18,1,87.9,MGR067
+AGT00226,Brokerage,Midwest,Developing,2016-04-16,8,90.6,MGR045
+AGT00227,Bank Partner,Midwest,Developing,2019-06-13,4,85.4,MGR018
+AGT00228,Career Agent,West,Developing,2020-03-18,8,90.1,MGR074
+AGT00229,Brokerage,South,Silver,2024-04-24,8,80.3,MGR082
+AGT00230,Bank Partner,South,Gold,2016-04-22,3,89.5,MGR038
+AGT00231,Bank Partner,South,Silver,2022-03-25,0,88.3,MGR001
+AGT00232,Brokerage,West,Gold,2013-10-04,3,88.9,MGR040
+AGT00233,Career Agent,West,Gold,2018-09-02,5,88.7,MGR050
+AGT00234,Direct Digital,Northeast,Developing,2023-11-21,2,96.1,MGR024
+AGT00235,Direct Digital,Midwest,Developing,2012-12-07,1,91.8,MGR089
+AGT00236,Career Agent,South,Developing,2024-02-03,0,92.3,MGR078
+AGT00237,Bank Partner,Midwest,Gold,2023-10-14,9,86.6,MGR083
+AGT00238,Career Agent,South,Gold,2017-07-01,7,86.8,MGR005
+AGT00239,Direct Digital,Northeast,Silver,2019-09-27,10,85.4,MGR054
+AGT00240,Direct Digital,South,Platinum,2012-06-05,6,87.0,MGR058
+AGT00241,Career Agent,Northeast,Gold,2022-04-29,3,91.5,MGR042
+AGT00242,Brokerage,West,Developing,2022-10-03,0,81.1,MGR043
+AGT00243,Bank Partner,Midwest,Silver,2017-12-19,0,81.0,MGR080
+AGT00244,Career Agent,South,Gold,2024-12-03,5,89.2,MGR044
+AGT00245,Career Agent,South,Gold,2022-06-04,16,91.3,MGR063
+AGT00246,Career Agent,South,Silver,2022-06-09,3,84.1,MGR040
+AGT00247,Career Agent,South,Silver,2018-07-09,0,87.0,MGR066
+AGT00248,Career Agent,West,Developing,2020-06-12,1,87.6,MGR065
+AGT00249,Direct Digital,South,Silver,2019-03-03,0,86.3,MGR069
+AGT00250,Bank Partner,South,Developing,2024-07-29,9,80.9,MGR005
+AGT00251,Brokerage,Northeast,Gold,2012-07-24,6,80.8,MGR061
+AGT00252,Brokerage,West,Silver,2021-08-09,6,82.8,MGR085
+AGT00253,Bank Partner,West,Gold,2024-02-09,5,97.4,MGR061
+AGT00254,Direct Digital,South,Developing,2023-09-17,4,81.5,MGR071
+AGT00255,Career Agent,Midwest,Gold,2022-03-21,0,94.0,MGR064
+AGT00256,Career Agent,West,Gold,2023-07-05,5,98,MGR047
+AGT00257,Bank Partner,Northeast,Developing,2021-02-21,5,86.9,MGR048
+AGT00258,Brokerage,South,Developing,2022-08-16,4,85.6,MGR036
+AGT00259,Bank Partner,West,Platinum,2013-02-05,2,83.3,MGR079
+AGT00260,Bank Partner,Midwest,Gold,2015-02-25,4,86.5,MGR071
+AGT00261,Brokerage,Midwest,Platinum,2014-06-19,6,82.5,MGR033
+AGT00262,Career Agent,Midwest,Developing,2018-01-03,6,83.2,MGR003
+AGT00263,Direct Digital,West,Developing,2015-02-03,4,82.5,MGR026
+AGT00264,Brokerage,West,Silver,2022-01-07,2,88.1,MGR024
+AGT00265,Career Agent,West,Developing,2012-07-04,2,84.7,MGR027
+AGT00266,Direct Digital,South,Platinum,2017-11-12,0,92.8,MGR065
+AGT00267,Direct Digital,South,Platinum,2016-11-05,0,90.6,MGR054
+AGT00268,Career Agent,Northeast,Developing,2020-08-01,13,76.1,MGR049
+AGT00269,Brokerage,West,Developing,2022-09-28,0,78.7,MGR055
+AGT00270,Brokerage,West,Silver,2013-09-25,11,82.2,MGR066
+AGT00271,Career Agent,South,Developing,2024-07-23,0,89.9,MGR069
+AGT00272,Brokerage,Midwest,Silver,2019-11-06,22,92.0,MGR016
+AGT00273,Bank Partner,West,Developing,2019-03-24,18,78.7,MGR039
+AGT00274,Brokerage,Northeast,Gold,2016-11-10,0,88.1,MGR006
+AGT00275,Career Agent,South,Silver,2019-03-25,2,85.2,MGR021
+AGT00276,Brokerage,Northeast,Gold,2019-11-15,10,87.4,MGR030
+AGT00277,Bank Partner,South,Developing,2014-07-24,2,75.8,MGR066
+AGT00278,Worksite,Northeast,Gold,2022-01-14,7,93.1,MGR019
+AGT00279,Brokerage,West,Silver,2012-12-13,3,82.5,MGR006
+AGT00280,Career Agent,Midwest,Developing,2017-06-13,5,93.2,MGR056
+AGT00281,Bank Partner,Midwest,Silver,2012-09-11,7,92.7,MGR004
+AGT00282,Bank Partner,South,Silver,2016-08-19,2,93.9,MGR014
+AGT00283,Direct Digital,South,Developing,2022-06-23,3,79.9,MGR075
+AGT00284,Brokerage,South,Developing,2016-08-29,5,82.5,MGR045
+AGT00285,Career Agent,Midwest,Developing,2012-03-12,8,90.1,MGR020
+AGT00286,Career Agent,Northeast,Developing,2023-03-27,2,98,MGR066
+AGT00287,Career Agent,West,Silver,2024-07-28,1,92.4,MGR048
+AGT00288,Career Agent,Northeast,Developing,2019-06-05,3,82.1,MGR026
+AGT00289,Brokerage,South,Developing,2019-05-05,0,91.1,MGR038
+AGT00290,Brokerage,South,Developing,2022-09-15,4,82.0,MGR072
+AGT00291,Career Agent,Northeast,Silver,2016-06-09,3,90.3,MGR034
+AGT00292,Career Agent,Midwest,Developing,2021-06-11,0,75.6,MGR089
+AGT00293,Brokerage,South,Silver,2018-02-15,8,73.5,MGR067
+AGT00294,Brokerage,Midwest,Silver,2014-02-03,3,83.7,MGR076
+AGT00295,Direct Digital,Midwest,Silver,2019-12-12,10,87.0,MGR014
+AGT00296,Career Agent,South,Silver,2015-11-21,2,82.6,MGR003
+AGT00297,Career Agent,Northeast,Developing,2023-05-22,11,85.0,MGR018
+AGT00298,Direct Digital,Northeast,Silver,2019-09-20,0,94.3,MGR087
+AGT00299,Career Agent,South,Gold,2012-06-07,9,80.7,MGR007
+AGT00300,Bank Partner,Midwest,Silver,2018-03-10,6,87.8,MGR061
+AGT00301,Bank Partner,West,Silver,2012-07-18,5,75.6,MGR071
+AGT00302,Career Agent,West,Silver,2017-04-09,3,86.9,MGR077
+AGT00303,Bank Partner,West,Developing,2014-10-31,0,84.5,MGR036
+AGT00304,Brokerage,Northeast,Developing,2023-04-11,7,83.8,MGR042
+AGT00305,Worksite,Northeast,Gold,2023-11-08,5,92.2,MGR044
+AGT00306,Career Agent,South,Developing,2013-04-24,6,84.1,MGR018
+AGT00307,Worksite,West,Platinum,2014-07-30,0,87.9,MGR067
+AGT00308,Career Agent,South,Silver,2018-09-17,5,90.5,MGR045
+AGT00309,Direct Digital,South,Silver,2020-01-01,10,95.1,MGR068
+AGT00310,Brokerage,South,Silver,2020-02-01,2,73.4,MGR028
+AGT00311,Career Agent,South,Developing,2015-04-10,2,92.2,MGR010
+AGT00312,Career Agent,South,Developing,2021-09-30,8,87.2,MGR043
+AGT00313,Bank Partner,South,Gold,2014-06-25,4,84.9,MGR069
+AGT00314,Career Agent,South,Developing,2016-08-27,1,88.4,MGR030
+AGT00315,Career Agent,Northeast,Developing,2018-06-02,2,84.2,MGR025
+AGT00316,Bank Partner,West,Gold,2017-04-11,1,86.9,MGR064
+AGT00317,Brokerage,Midwest,Silver,2023-10-23,0,74.2,MGR011
+AGT00318,Brokerage,Northeast,Platinum,2013-06-23,12,91.3,MGR049
+AGT00319,Direct Digital,West,Developing,2013-05-13,0,91.7,MGR058
+AGT00320,Brokerage,South,Gold,2012-12-11,20,93.2,MGR046
+AGT00321,Career Agent,South,Developing,2013-09-12,0,82.4,MGR080
+AGT00322,Bank Partner,Northeast,Developing,2016-01-20,1,90.7,MGR019
+AGT00323,Career Agent,South,Silver,2020-03-20,1,87.1,MGR014
+AGT00324,Career Agent,South,Gold,2020-06-09,5,88.5,MGR072
+AGT00325,Worksite,Midwest,Silver,2013-12-16,8,87.6,MGR012
+AGT00326,Brokerage,Midwest,Developing,2020-02-07,3,96.5,MGR001
+AGT00327,Brokerage,Midwest,Developing,2013-06-23,2,76.6,MGR081
+AGT00328,Career Agent,West,Gold,2021-02-28,1,89.1,MGR014
+AGT00329,Brokerage,Northeast,Developing,2021-11-16,0,82.3,MGR078
+AGT00330,Direct Digital,South,Developing,2017-11-06,1,75.5,MGR042
+AGT00331,Bank Partner,West,Developing,2020-05-14,1,76.8,MGR071
+AGT00332,Brokerage,West,Silver,2014-09-12,0,83.7,MGR005
+AGT00333,Career Agent,South,Gold,2014-03-28,2,93.8,MGR043
+AGT00334,Career Agent,South,Developing,2023-09-07,3,81.2,MGR079
+AGT00335,Career Agent,West,Gold,2013-09-28,3,84.4,MGR063
+AGT00336,Brokerage,West,Developing,2024-02-26,3,82.3,MGR028
+AGT00337,Career Agent,West,Gold,2015-04-21,2,86.1,MGR018
+AGT00338,Career Agent,Northeast,Platinum,2014-06-30,8,90.7,MGR053
+AGT00339,Career Agent,West,Gold,2012-08-30,2,90.2,MGR005
+AGT00340,Bank Partner,West,Developing,2020-10-19,14,85.2,MGR036
+AGT00341,Career Agent,South,Silver,2019-07-15,2,73.4,MGR081
+AGT00342,Direct Digital,South,Gold,2022-12-08,2,90.2,MGR065
+AGT00343,Brokerage,Midwest,Silver,2017-12-26,4,94.2,MGR029
+AGT00344,Career Agent,South,Silver,2013-09-20,5,91.7,MGR047
+AGT00345,Brokerage,South,Developing,2014-07-20,10,86.5,MGR065
+AGT00346,Career Agent,West,Platinum,2021-12-06,5,92.3,MGR020
+AGT00347,Career Agent,Northeast,Silver,2021-01-21,1,87.6,MGR027
+AGT00348,Career Agent,South,Developing,2013-01-05,0,93.4,MGR070
+AGT00349,Career Agent,Northeast,Gold,2017-04-19,2,98,MGR029
+AGT00350,Bank Partner,South,Developing,2016-02-08,5,82.0,MGR007
+AGT00351,Career Agent,South,Developing,2012-10-30,24,90.4,MGR056
+AGT00352,Bank Partner,Northeast,Platinum,2023-06-30,2,96.2,MGR015
+AGT00353,Bank Partner,West,Silver,2014-03-09,10,89.1,MGR088
+AGT00354,Career Agent,Northeast,Developing,2017-04-12,15,82.8,MGR088
+AGT00355,Direct Digital,Midwest,Developing,2017-08-23,2,80.4,MGR067
+AGT00356,Worksite,West,Silver,2017-11-01,7,88.7,MGR003
+AGT00357,Worksite,South,Developing,2017-03-11,0,85.9,MGR020
+AGT00358,Direct Digital,South,Developing,2020-09-19,1,89.2,MGR045
+AGT00359,Career Agent,South,Silver,2024-01-13,4,75.6,MGR042
+AGT00360,Brokerage,Northeast,Silver,2015-07-12,6,84.9,MGR005
+AGT00361,Career Agent,Northeast,Gold,2013-11-13,7,88.7,MGR002
+AGT00362,Career Agent,West,Platinum,2017-10-09,2,84.8,MGR051
+AGT00363,Career Agent,Northeast,Developing,2019-12-11,3,77.5,MGR010
+AGT00364,Worksite,West,Platinum,2021-08-18,12,86.8,MGR033
+AGT00365,Bank Partner,South,Platinum,2020-06-22,4,89.4,MGR056
+AGT00366,Direct Digital,Midwest,Silver,2022-10-31,0,87.0,MGR058
+AGT00367,Direct Digital,South,Developing,2023-02-16,9,96.9,MGR012
+AGT00368,Brokerage,Midwest,Silver,2013-09-16,6,77.0,MGR074
+AGT00369,Direct Digital,Midwest,Silver,2021-10-23,8,95.3,MGR045
+AGT00370,Bank Partner,Northeast,Silver,2022-10-17,36,88.8,MGR023
+AGT00371,Worksite,West,Silver,2023-02-17,3,89.8,MGR040
+AGT00372,Bank Partner,West,Silver,2021-01-26,4,80.6,MGR064
+AGT00373,Career Agent,Northeast,Platinum,2024-04-11,12,90.1,MGR079
+AGT00374,Brokerage,West,Silver,2023-01-10,1,80.1,MGR026
+AGT00375,Career Agent,Midwest,Silver,2016-04-21,1,86.6,MGR007
+AGT00376,Direct Digital,Midwest,Silver,2013-06-17,0,98,MGR022
+AGT00377,Career Agent,West,Developing,2012-02-24,6,94.4,MGR020
+AGT00378,Direct Digital,Midwest,Silver,2023-10-14,1,93.0,MGR004
+AGT00379,Worksite,West,Silver,2024-12-09,17,93.2,MGR072
+AGT00380,Direct Digital,Midwest,Developing,2019-08-24,5,89.5,MGR072
+AGT00381,Bank Partner,Northeast,Silver,2013-12-31,2,93.9,MGR069
+AGT00382,Direct Digital,Northeast,Silver,2021-11-28,1,80.0,MGR047
+AGT00383,Brokerage,South,Platinum,2023-04-11,6,86.6,MGR042
+AGT00384,Worksite,West,Platinum,2015-08-20,0,85.3,MGR024
+AGT00385,Career Agent,Midwest,Silver,2019-08-01,12,78.6,MGR078
+AGT00386,Career Agent,South,Silver,2017-12-24,4,98,MGR031
+AGT00387,Career Agent,Northeast,Silver,2016-06-30,1,84.4,MGR024
+AGT00388,Bank Partner,West,Silver,2023-01-21,0,71.4,MGR051
+AGT00389,Direct Digital,Midwest,Silver,2021-09-25,7,83.8,MGR076
+AGT00390,Brokerage,Midwest,Gold,2024-09-27,9,86.9,MGR087
+AGT00391,Direct Digital,West,Developing,2015-12-14,4,82.6,MGR075
+AGT00392,Brokerage,South,Silver,2024-01-23,6,81.6,MGR024
+AGT00393,Brokerage,Northeast,Gold,2014-03-16,0,80.7,MGR062
+AGT00394,Career Agent,Midwest,Silver,2017-05-28,1,82.5,MGR065
+AGT00395,Bank Partner,West,Gold,2017-02-24,0,91.1,MGR068
+AGT00396,Career Agent,South,Developing,2012-10-15,12,92.0,MGR067
+AGT00397,Career Agent,Northeast,Silver,2024-08-30,1,80.7,MGR044
+AGT00398,Bank Partner,West,Gold,2016-03-07,0,98,MGR067
+AGT00399,Career Agent,Northeast,Silver,2020-09-15,10,74.5,MGR085
+AGT00400,Career Agent,West,Gold,2020-08-15,10,94.1,MGR087
+AGT00401,Career Agent,Northeast,Developing,2023-01-07,7,85.4,MGR016
+AGT00402,Career Agent,South,Developing,2024-04-26,18,78.2,MGR026
+AGT00403,Direct Digital,South,Silver,2023-02-16,4,80.4,MGR052
+AGT00404,Bank Partner,Midwest,Silver,2019-09-21,3,82.4,MGR090
+AGT00405,Worksite,West,Developing,2020-04-13,2,84.7,MGR031
+AGT00406,Career Agent,West,Gold,2013-09-07,5,88.3,MGR044
+AGT00407,Bank Partner,Midwest,Silver,2019-04-28,1,86.2,MGR041
+AGT00408,Career Agent,Midwest,Developing,2015-07-22,5,84.5,MGR078
+AGT00409,Direct Digital,South,Developing,2014-01-20,17,76.7,MGR025
+AGT00410,Bank Partner,Midwest,Gold,2017-01-16,7,85.1,MGR010
+AGT00411,Brokerage,Midwest,Silver,2014-02-15,3,82.9,MGR018
+AGT00412,Bank Partner,South,Developing,2014-06-05,6,88.4,MGR062
+AGT00413,Direct Digital,West,Silver,2014-01-28,7,94.9,MGR044
+AGT00414,Career Agent,South,Developing,2021-06-25,7,87.4,MGR071
+AGT00415,Worksite,West,Platinum,2015-02-09,16,96.3,MGR083
+AGT00416,Brokerage,South,Developing,2015-12-10,3,87.9,MGR083
+AGT00417,Brokerage,Northeast,Gold,2012-05-14,9,98,MGR037
+AGT00418,Brokerage,Northeast,Silver,2021-01-15,4,91.5,MGR062
+AGT00419,Career Agent,West,Silver,2016-06-03,0,89.6,MGR008
+AGT00420,Brokerage,South,Developing,2021-02-07,3,88.5,MGR072
+AGT00421,Direct Digital,Northeast,Silver,2014-09-29,2,79.2,MGR005
+AGT00422,Worksite,South,Silver,2012-01-10,4,83.5,MGR056
+AGT00423,Worksite,South,Gold,2022-08-31,4,80.0,MGR031
+AGT00424,Worksite,South,Developing,2020-01-12,18,86.5,MGR078
+AGT00425,Career Agent,South,Developing,2019-02-27,3,91.0,MGR001
+AGT00426,Direct Digital,South,Gold,2020-02-25,0,89.7,MGR090
+AGT00427,Worksite,Northeast,Developing,2023-10-29,0,79.5,MGR042
+AGT00428,Career Agent,South,Developing,2023-08-01,4,77.1,MGR038
+AGT00429,Direct Digital,Midwest,Developing,2016-02-07,12,77.1,MGR063
+AGT00430,Brokerage,Northeast,Developing,2016-04-28,2,79.9,MGR052
+AGT00431,Direct Digital,West,Silver,2022-09-29,0,89.7,MGR030
+AGT00432,Career Agent,South,Developing,2013-04-22,9,93.0,MGR004
+AGT00433,Career Agent,Midwest,Silver,2023-06-16,4,85.0,MGR016
+AGT00434,Bank Partner,Midwest,Developing,2019-04-16,1,89.4,MGR026
+AGT00435,Career Agent,Northeast,Developing,2024-11-14,7,91.1,MGR053
+AGT00436,Worksite,South,Silver,2022-05-10,4,78.7,MGR013
+AGT00437,Career Agent,Midwest,Silver,2017-03-21,0,84.0,MGR043
+AGT00438,Career Agent,South,Gold,2014-08-02,0,87.1,MGR090
+AGT00439,Direct Digital,West,Silver,2017-05-22,0,89.7,MGR083
+AGT00440,Brokerage,West,Gold,2024-08-07,9,96.0,MGR035
+AGT00441,Brokerage,West,Developing,2024-01-25,0,78.7,MGR072
+AGT00442,Direct Digital,West,Developing,2014-08-27,10,86.1,MGR036
+AGT00443,Career Agent,South,Developing,2023-01-02,0,84.6,MGR070
+AGT00444,Career Agent,West,Developing,2012-08-16,5,79.9,MGR072
+AGT00445,Direct Digital,South,Silver,2024-02-08,13,89.6,MGR041
+AGT00446,Worksite,Midwest,Gold,2014-04-17,15,87.2,MGR046
+AGT00447,Career Agent,Northeast,Developing,2017-10-20,3,78.2,MGR008
+AGT00448,Career Agent,South,Silver,2020-02-04,8,92.3,MGR088
+AGT00449,Career Agent,West,Silver,2015-04-06,0,84.3,MGR062
+AGT00450,Brokerage,Midwest,Silver,2021-11-09,19,94.0,MGR051
+AGT00451,Brokerage,Midwest,Silver,2018-04-20,2,88.7,MGR077
+AGT00452,Direct Digital,Midwest,Platinum,2014-02-17,0,96.9,MGR073
+AGT00453,Direct Digital,South,Gold,2013-04-09,1,93.2,MGR070
+AGT00454,Brokerage,South,Developing,2024-05-24,2,90.9,MGR027
+AGT00455,Direct Digital,West,Developing,2022-08-02,7,94.3,MGR075
+AGT00456,Bank Partner,West,Silver,2021-07-26,5,73.6,MGR054
+AGT00457,Brokerage,South,Silver,2013-04-30,0,86.2,MGR039
+AGT00458,Worksite,Northeast,Silver,2014-11-19,3,93.3,MGR008
+AGT00459,Direct Digital,South,Developing,2019-10-02,4,82.4,MGR083
+AGT00460,Career Agent,Northeast,Silver,2013-12-01,0,82.3,MGR021
+AGT00461,Brokerage,Midwest,Gold,2022-07-31,12,85.6,MGR007
+AGT00462,Brokerage,South,Silver,2014-09-12,0,84.3,MGR075
+AGT00463,Brokerage,West,Developing,2017-12-01,3,84.4,MGR029
+AGT00464,Worksite,South,Developing,2018-05-21,11,84.2,MGR034
+AGT00465,Brokerage,South,Developing,2013-05-13,9,84.5,MGR043
+AGT00466,Career Agent,South,Silver,2023-09-27,1,78.1,MGR005
+AGT00467,Brokerage,South,Silver,2012-02-03,2,91.0,MGR025
+AGT00468,Career Agent,West,Developing,2015-05-27,1,93.5,MGR065
+AGT00469,Career Agent,Midwest,Gold,2022-07-16,10,98,MGR064
+AGT00470,Bank Partner,Midwest,Developing,2012-04-06,12,73.9,MGR076
+AGT00471,Brokerage,South,Silver,2021-01-01,1,87.0,MGR003
+AGT00472,Brokerage,Midwest,Silver,2022-12-14,4,88.0,MGR074
+AGT00473,Career Agent,South,Silver,2012-08-01,6,90.4,MGR050
+AGT00474,Direct Digital,South,Silver,2024-10-12,0,91.7,MGR065
+AGT00475,Brokerage,South,Silver,2023-09-23,0,84.2,MGR017
+AGT00476,Career Agent,South,Developing,2023-07-07,1,98,MGR071
+AGT00477,Worksite,Northeast,Developing,2012-10-27,9,92.3,MGR056
+AGT00478,Worksite,South,Platinum,2018-07-29,4,92.1,MGR035
+AGT00479,Career Agent,South,Silver,2015-08-09,1,85.2,MGR082
+AGT00480,Bank Partner,West,Developing,2021-06-05,4,80.2,MGR001
+AGT00481,Career Agent,West,Silver,2018-08-17,1,88.0,MGR085
+AGT00482,Brokerage,South,Silver,2018-10-03,0,79.3,MGR078
+AGT00483,Bank Partner,Midwest,Silver,2019-11-12,2,86.4,MGR042
+AGT00484,Brokerage,South,Silver,2015-10-28,2,83.4,MGR059
+AGT00485,Direct Digital,Northeast,Developing,2022-03-01,1,85.0,MGR013
+AGT00486,Direct Digital,South,Silver,2014-08-12,0,83.3,MGR030
+AGT00487,Direct Digital,South,Gold,2012-02-27,3,98,MGR009
+AGT00488,Brokerage,Midwest,Silver,2018-09-23,8,91.3,MGR068
+AGT00489,Direct Digital,South,Silver,2020-03-13,3,93.7,MGR014
+AGT00490,Brokerage,South,Silver,2014-09-22,0,89.7,MGR063
+AGT00491,Brokerage,South,Platinum,2014-08-20,0,83.3,MGR007
+AGT00492,Worksite,South,Silver,2024-11-21,12,77.1,MGR024
+AGT00493,Career Agent,South,Gold,2017-07-25,1,89.7,MGR074
+AGT00494,Worksite,South,Platinum,2023-07-05,0,94.0,MGR022
+AGT00495,Brokerage,Midwest,Developing,2015-07-13,12,90.5,MGR028
+AGT00496,Career Agent,Midwest,Silver,2024-02-09,2,91.5,MGR046
+AGT00497,Brokerage,South,Gold,2023-09-23,2,95.5,MGR026
+AGT00498,Career Agent,South,Gold,2022-03-03,4,84.6,MGR016
+AGT00499,Bank Partner,West,Developing,2018-04-28,15,81.2,MGR011
+AGT00500,Brokerage,South,Silver,2019-12-21,2,86.2,MGR069
+AGT00501,Brokerage,Northeast,Developing,2018-12-03,4,74.4,MGR083
+AGT00502,Brokerage,South,Silver,2016-02-09,6,88.8,MGR088
+AGT00503,Bank Partner,Northeast,Platinum,2024-12-31,7,94.8,MGR029
+AGT00504,Bank Partner,Midwest,Developing,2014-02-19,6,84.7,MGR017
+AGT00505,Direct Digital,South,Developing,2014-08-31,4,88.7,MGR047
+AGT00506,Worksite,South,Developing,2019-08-04,2,83.5,MGR003
+AGT00507,Career Agent,Northeast,Gold,2015-12-18,6,89.0,MGR089
+AGT00508,Brokerage,West,Developing,2017-12-15,2,87.2,MGR035
+AGT00509,Bank Partner,Northeast,Silver,2023-10-27,1,94.8,MGR033
+AGT00510,Bank Partner,South,Platinum,2023-11-07,10,89.9,MGR082
+AGT00511,Direct Digital,South,Developing,2013-07-17,1,80.2,MGR065
+AGT00512,Direct Digital,Midwest,Silver,2022-11-11,1,90.4,MGR074
+AGT00513,Career Agent,Midwest,Developing,2020-01-22,7,88.0,MGR072
+AGT00514,Bank Partner,South,Developing,2017-08-12,1,90.2,MGR069
+AGT00515,Direct Digital,South,Developing,2015-09-03,19,74.9,MGR032
+AGT00516,Direct Digital,South,Silver,2014-12-11,11,81.0,MGR060
+AGT00517,Brokerage,West,Silver,2016-12-19,8,74.7,MGR015
+AGT00518,Brokerage,Northeast,Silver,2021-03-02,3,87.8,MGR069
+AGT00519,Direct Digital,South,Developing,2023-05-07,0,75.9,MGR083
+AGT00520,Career Agent,South,Developing,2016-01-07,2,74.1,MGR032
+AGT00521,Career Agent,Northeast,Gold,2020-06-21,2,97.7,MGR068
+AGT00522,Career Agent,South,Developing,2015-10-24,4,87.2,MGR032
+AGT00523,Brokerage,South,Developing,2012-09-13,29,88.3,MGR074
+AGT00524,Career Agent,Midwest,Silver,2015-05-31,3,81.6,MGR010
+AGT00525,Career Agent,Northeast,Developing,2024-08-14,5,87.8,MGR036
+AGT00526,Career Agent,West,Developing,2018-09-22,18,83.1,MGR035
+AGT00527,Direct Digital,West,Developing,2021-08-07,2,76.6,MGR077
+AGT00528,Direct Digital,South,Developing,2015-09-12,2,93.9,MGR058
+AGT00529,Direct Digital,Northeast,Silver,2013-09-22,9,82.0,MGR024
+AGT00530,Bank Partner,Midwest,Developing,2023-07-20,11,78.5,MGR057
+AGT00531,Career Agent,Northeast,Silver,2014-02-06,5,84.7,MGR033
+AGT00532,Career Agent,West,Gold,2022-10-16,0,91.5,MGR068
+AGT00533,Career Agent,West,Silver,2013-11-25,1,81.2,MGR079
+AGT00534,Career Agent,South,Developing,2016-03-02,5,93.8,MGR020
+AGT00535,Career Agent,West,Silver,2015-01-04,1,95.3,MGR089
+AGT00536,Brokerage,West,Developing,2017-09-29,11,79.3,MGR029
+AGT00537,Brokerage,South,Silver,2020-04-19,2,88.1,MGR074
+AGT00538,Worksite,South,Developing,2016-02-29,1,80.5,MGR056
+AGT00539,Worksite,South,Developing,2016-11-26,0,82.9,MGR044
+AGT00540,Brokerage,South,Platinum,2022-12-25,9,87.2,MGR048
+AGT00541,Direct Digital,South,Silver,2014-08-09,6,86.1,MGR052
+AGT00542,Career Agent,South,Silver,2014-10-12,5,92.7,MGR033
+AGT00543,Bank Partner,West,Gold,2018-03-07,0,86.6,MGR047
+AGT00544,Career Agent,South,Silver,2019-07-12,1,70.8,MGR088
+AGT00545,Bank Partner,Northeast,Silver,2019-09-01,11,78.8,MGR038
+AGT00546,Career Agent,Midwest,Developing,2016-07-14,5,93.8,MGR061
+AGT00547,Bank Partner,South,Gold,2017-01-17,1,85.9,MGR044
+AGT00548,Brokerage,Midwest,Developing,2013-01-02,0,81.0,MGR030
+AGT00549,Worksite,Northeast,Developing,2018-07-20,4,83.4,MGR045
+AGT00550,Bank Partner,West,Silver,2019-10-28,2,80.7,MGR012
+AGT00551,Worksite,Midwest,Silver,2015-10-28,0,91.9,MGR076
+AGT00552,Brokerage,Northeast,Gold,2016-08-12,8,82.9,MGR037
+AGT00553,Career Agent,West,Developing,2014-03-30,3,82.4,MGR008
+AGT00554,Brokerage,South,Silver,2019-05-20,4,85.2,MGR042
+AGT00555,Bank Partner,Midwest,Developing,2022-11-08,2,83.5,MGR016
+AGT00556,Direct Digital,South,Gold,2016-08-17,5,79.3,MGR046
+AGT00557,Career Agent,Midwest,Silver,2018-05-03,5,98,MGR075
+AGT00558,Career Agent,South,Developing,2018-07-14,11,88.8,MGR047
+AGT00559,Direct Digital,Northeast,Gold,2016-07-16,9,95.1,MGR011
+AGT00560,Direct Digital,South,Developing,2018-12-29,11,82.3,MGR026
+AGT00561,Brokerage,Midwest,Developing,2024-01-13,11,90.6,MGR039
+AGT00562,Career Agent,Midwest,Silver,2014-10-03,5,94.3,MGR030
+AGT00563,Brokerage,South,Gold,2020-05-21,0,84.8,MGR061
+AGT00564,Worksite,Northeast,Developing,2013-10-03,8,84.9,MGR031
+AGT00565,Direct Digital,South,Developing,2012-08-24,1,84.2,MGR066
+AGT00566,Direct Digital,West,Developing,2021-06-20,6,81.4,MGR007
+AGT00567,Direct Digital,Northeast,Developing,2022-07-26,4,77.5,MGR067
+AGT00568,Brokerage,Midwest,Silver,2018-03-14,0,85.0,MGR034
+AGT00569,Brokerage,Northeast,Developing,2014-04-28,4,85.6,MGR029
+AGT00570,Brokerage,South,Silver,2017-09-25,0,80.2,MGR042
+AGT00571,Brokerage,West,Gold,2012-01-12,4,95.4,MGR020
+AGT00572,Career Agent,South,Silver,2022-07-01,6,85.2,MGR012
+AGT00573,Career Agent,West,Developing,2020-10-15,0,71.0,MGR027
+AGT00574,Direct Digital,South,Silver,2022-01-17,1,89.0,MGR029
+AGT00575,Worksite,Midwest,Platinum,2020-09-24,0,96.6,MGR059
+AGT00576,Brokerage,Northeast,Gold,2023-12-26,7,86.1,MGR081
+AGT00577,Brokerage,South,Developing,2020-04-14,8,81.9,MGR046
+AGT00578,Career Agent,South,Developing,2023-08-03,0,95.5,MGR024
+AGT00579,Bank Partner,Northeast,Developing,2016-12-19,6,91.0,MGR075
+AGT00580,Brokerage,Northeast,Gold,2012-09-23,2,89.1,MGR007
+AGT00581,Career Agent,Northeast,Developing,2016-09-21,0,87.5,MGR044
+AGT00582,Career Agent,Midwest,Platinum,2014-07-28,2,89.4,MGR051
+AGT00583,Direct Digital,Northeast,Developing,2017-06-26,1,89.4,MGR022
+AGT00584,Brokerage,South,Developing,2019-10-18,6,89.7,MGR080
+AGT00585,Career Agent,West,Gold,2015-08-04,1,90.1,MGR080
+AGT00586,Career Agent,South,Developing,2015-01-20,5,95.5,MGR044
+AGT00587,Brokerage,Midwest,Developing,2019-12-01,1,74.4,MGR079
+AGT00588,Career Agent,South,Silver,2018-05-26,11,90.0,MGR046
+AGT00589,Brokerage,Northeast,Gold,2023-01-14,8,90.7,MGR042
+AGT00590,Brokerage,Northeast,Gold,2021-02-22,1,82.7,MGR025
+AGT00591,Career Agent,South,Developing,2023-11-11,6,78.2,MGR065
+AGT00592,Bank Partner,Midwest,Developing,2022-10-04,14,79.4,MGR045
+AGT00593,Direct Digital,Midwest,Developing,2019-05-22,4,76.0,MGR060
+AGT00594,Worksite,Northeast,Silver,2022-12-13,11,85.3,MGR003
+AGT00595,Career Agent,West,Silver,2024-05-18,2,88.1,MGR069
+AGT00596,Worksite,Midwest,Developing,2014-01-12,3,86.5,MGR054
+AGT00597,Brokerage,West,Developing,2024-05-06,9,86.9,MGR042
+AGT00598,Career Agent,South,Silver,2015-12-03,0,88.2,MGR086
+AGT00599,Career Agent,South,Silver,2023-09-25,3,92.2,MGR008
+AGT00600,Worksite,Midwest,Developing,2019-05-11,1,91.0,MGR007
+AGT00601,Direct Digital,Northeast,Gold,2016-06-13,4,88.5,MGR031
+AGT00602,Brokerage,West,Developing,2021-06-16,0,88.4,MGR061
+AGT00603,Career Agent,South,Silver,2019-11-07,0,79.8,MGR089
+AGT00604,Brokerage,West,Gold,2018-06-05,16,94.8,MGR087
+AGT00605,Career Agent,Northeast,Developing,2021-12-26,11,86.6,MGR013
+AGT00606,Career Agent,Midwest,Silver,2024-04-23,22,85.7,MGR059
+AGT00607,Direct Digital,Northeast,Developing,2013-05-04,4,82.3,MGR042
+AGT00608,Direct Digital,Midwest,Developing,2015-11-26,3,82.4,MGR008
+AGT00609,Brokerage,South,Silver,2015-08-27,7,88.6,MGR042
+AGT00610,Brokerage,Northeast,Gold,2021-09-07,11,86.8,MGR064
+AGT00611,Brokerage,South,Developing,2015-07-06,14,78.7,MGR078
+AGT00612,Worksite,South,Developing,2013-09-23,5,79.6,MGR001
+AGT00613,Brokerage,South,Platinum,2022-10-13,0,75.4,MGR008
+AGT00614,Career Agent,South,Gold,2013-01-18,5,93.0,MGR071
+AGT00615,Worksite,South,Gold,2016-09-16,1,89.6,MGR016
+AGT00616,Bank Partner,South,Developing,2013-11-10,3,87.0,MGR045
+AGT00617,Career Agent,Midwest,Developing,2021-01-31,2,95.5,MGR068
+AGT00618,Worksite,Midwest,Gold,2015-09-16,5,89.7,MGR012
+AGT00619,Career Agent,South,Developing,2015-12-01,1,87.0,MGR007
+AGT00620,Career Agent,South,Developing,2020-06-01,6,87.4,MGR011
+AGT00621,Career Agent,Midwest,Silver,2021-11-19,6,78.5,MGR014
+AGT00622,Direct Digital,Northeast,Silver,2019-09-05,3,87.6,MGR040
+AGT00623,Worksite,Midwest,Developing,2012-01-13,20,90.1,MGR076
+AGT00624,Career Agent,Midwest,Gold,2019-06-05,7,83.2,MGR031
+AGT00625,Bank Partner,Northeast,Silver,2022-05-29,0,90.1,MGR024
+AGT00626,Brokerage,Northeast,Silver,2023-11-19,6,77.6,MGR048
+AGT00627,Brokerage,West,Silver,2012-05-22,9,82.5,MGR026
+AGT00628,Career Agent,Midwest,Silver,2014-10-12,6,84.5,MGR031
+AGT00629,Career Agent,South,Developing,2013-12-23,16,83.7,MGR057
+AGT00630,Worksite,Midwest,Silver,2012-04-17,10,86.8,MGR024
+AGT00631,Bank Partner,Midwest,Developing,2020-12-10,0,91.7,MGR052
+AGT00632,Brokerage,Midwest,Developing,2017-10-11,0,83.3,MGR055
+AGT00633,Career Agent,Northeast,Developing,2016-04-06,2,84.2,MGR007
+AGT00634,Career Agent,Northeast,Silver,2019-10-02,14,79.1,MGR064
+AGT00635,Bank Partner,West,Silver,2021-05-14,8,79.1,MGR048
+AGT00636,Career Agent,South,Platinum,2012-06-22,6,85.5,MGR029
+AGT00637,Direct Digital,Midwest,Silver,2021-06-14,1,96.5,MGR028
+AGT00638,Worksite,South,Developing,2014-07-02,6,84.9,MGR049
+AGT00639,Career Agent,Midwest,Silver,2021-05-16,9,86.7,MGR002
+AGT00640,Career Agent,West,Developing,2016-10-25,0,85.1,MGR078
+AGT00641,Brokerage,South,Developing,2023-04-06,0,74.0,MGR038
+AGT00642,Bank Partner,South,Gold,2023-01-13,0,92.9,MGR042
+AGT00643,Worksite,West,Silver,2018-03-23,13,87.4,MGR066
+AGT00644,Brokerage,Northeast,Developing,2021-02-19,2,88.9,MGR001
+AGT00645,Worksite,South,Developing,2023-01-09,0,84.8,MGR073
+AGT00646,Worksite,Midwest,Silver,2016-10-20,2,89.4,MGR081
+AGT00647,Brokerage,Northeast,Silver,2015-05-22,5,85.9,MGR048
+AGT00648,Direct Digital,South,Developing,2020-06-26,1,79.5,MGR080
+AGT00649,Direct Digital,Northeast,Gold,2024-09-30,15,89.6,MGR011
+AGT00650,Worksite,South,Developing,2015-12-08,3,79.8,MGR089
+AGT00651,Worksite,Midwest,Developing,2016-11-13,1,89.6,MGR037
+AGT00652,Brokerage,Midwest,Silver,2022-10-09,13,88.9,MGR047
+AGT00653,Bank Partner,Northeast,Gold,2023-02-03,9,98,MGR069
+AGT00654,Career Agent,Northeast,Developing,2023-09-23,0,83.1,MGR008
+AGT00655,Bank Partner,Northeast,Developing,2014-12-20,8,81.3,MGR048
+AGT00656,Worksite,West,Silver,2013-05-23,6,92.8,MGR044
+AGT00657,Brokerage,South,Silver,2021-05-03,5,80.0,MGR026
+AGT00658,Bank Partner,Midwest,Silver,2013-03-08,3,85.4,MGR061
+AGT00659,Brokerage,West,Silver,2017-01-06,3,88.5,MGR027
+AGT00660,Career Agent,South,Platinum,2014-03-03,12,97.6,MGR002
+AGT00661,Worksite,West,Silver,2024-06-01,3,90.0,MGR003
+AGT00662,Worksite,Midwest,Gold,2021-08-24,2,93.9,MGR074
+AGT00663,Worksite,South,Developing,2015-04-24,2,85.3,MGR023
+AGT00664,Bank Partner,South,Gold,2022-11-05,2,89.1,MGR033
+AGT00665,Direct Digital,South,Silver,2023-06-11,3,85.6,MGR006
+AGT00666,Career Agent,Midwest,Gold,2023-02-10,2,88.5,MGR053
+AGT00667,Brokerage,Northeast,Platinum,2018-03-01,30,94.9,MGR076
+AGT00668,Brokerage,South,Developing,2024-11-14,0,88.3,MGR011
+AGT00669,Brokerage,West,Silver,2024-12-13,2,87.9,MGR076
+AGT00670,Bank Partner,West,Silver,2013-09-24,15,87.7,MGR049
+AGT00671,Career Agent,Midwest,Silver,2012-01-12,11,80.3,MGR074
+AGT00672,Direct Digital,South,Gold,2022-05-07,3,98,MGR064
+AGT00673,Brokerage,South,Developing,2014-09-03,3,79.4,MGR029
+AGT00674,Career Agent,South,Silver,2015-11-11,4,86.8,MGR029
+AGT00675,Worksite,South,Gold,2013-01-24,3,92.6,MGR016
+AGT00676,Career Agent,West,Gold,2020-06-16,2,98,MGR034
+AGT00677,Career Agent,West,Silver,2020-06-30,6,87.6,MGR079
+AGT00678,Career Agent,West,Silver,2021-11-06,0,78.3,MGR053
+AGT00679,Career Agent,Midwest,Silver,2024-02-19,5,80.1,MGR087
+AGT00680,Career Agent,South,Developing,2021-10-06,14,81.2,MGR033
+AGT00681,Career Agent,South,Gold,2020-02-29,6,86.8,MGR016
+AGT00682,Worksite,West,Developing,2017-11-03,2,89.0,MGR057
+AGT00683,Worksite,Midwest,Gold,2020-01-25,40,93.8,MGR060
+AGT00684,Bank Partner,West,Platinum,2023-02-14,3,96.2,MGR004
+AGT00685,Career Agent,West,Silver,2012-06-26,6,88.4,MGR061
+AGT00686,Career Agent,Northeast,Silver,2015-05-15,9,90.0,MGR041
+AGT00687,Brokerage,Midwest,Developing,2012-02-04,0,81.7,MGR052
+AGT00688,Career Agent,Northeast,Silver,2014-04-04,10,80.9,MGR019
+AGT00689,Career Agent,West,Developing,2020-02-14,1,88.3,MGR006
+AGT00690,Direct Digital,Midwest,Developing,2017-02-03,0,85.9,MGR084
+AGT00691,Career Agent,West,Silver,2023-06-20,0,94.0,MGR007
+AGT00692,Bank Partner,South,Developing,2018-06-17,3,91.5,MGR013
+AGT00693,Worksite,South,Platinum,2014-05-28,3,87.8,MGR081
+AGT00694,Bank Partner,Midwest,Silver,2022-11-15,6,89.2,MGR067
+AGT00695,Bank Partner,West,Gold,2013-11-07,4,91.2,MGR025
+AGT00696,Direct Digital,Midwest,Developing,2013-10-01,1,91.9,MGR039
+AGT00697,Direct Digital,West,Gold,2024-11-24,1,92.3,MGR017
+AGT00698,Career Agent,South,Gold,2014-10-14,4,97.1,MGR079
+AGT00699,Career Agent,Midwest,Gold,2012-07-05,2,91.6,MGR065
+AGT00700,Bank Partner,Northeast,Gold,2016-11-20,10,87.2,MGR023
+AGT00701,Career Agent,South,Gold,2024-01-03,4,92.6,MGR085
+AGT00702,Career Agent,Northeast,Platinum,2017-02-27,1,96.2,MGR023
+AGT00703,Bank Partner,West,Silver,2024-06-27,8,93.5,MGR060
+AGT00704,Bank Partner,South,Developing,2024-10-02,3,80.7,MGR011
+AGT00705,Career Agent,Northeast,Developing,2024-02-15,11,85.4,MGR019
+AGT00706,Brokerage,West,Silver,2019-10-01,2,98,MGR022
+AGT00707,Brokerage,South,Silver,2013-06-11,7,84.0,MGR056
+AGT00708,Direct Digital,South,Developing,2018-05-15,2,77.9,MGR055
+AGT00709,Bank Partner,Midwest,Silver,2012-02-20,11,94.7,MGR025
+AGT00710,Career Agent,South,Silver,2024-10-28,13,85.4,MGR031
+AGT00711,Career Agent,West,Platinum,2015-07-30,3,96.9,MGR027
+AGT00712,Career Agent,West,Silver,2017-10-30,4,93.3,MGR021
+AGT00713,Career Agent,Northeast,Developing,2024-05-10,0,85.7,MGR070
+AGT00714,Career Agent,South,Gold,2016-05-21,10,79.3,MGR033
+AGT00715,Direct Digital,West,Gold,2020-11-02,0,84.4,MGR086
+AGT00716,Worksite,South,Silver,2024-04-20,10,87.7,MGR009
+AGT00717,Brokerage,Northeast,Platinum,2017-03-07,13,88.6,MGR043
+AGT00718,Brokerage,West,Gold,2014-11-20,5,88.5,MGR057
+AGT00719,Career Agent,South,Developing,2018-02-13,9,95.1,MGR050
+AGT00720,Brokerage,Midwest,Developing,2024-09-17,10,98,MGR037
+AGT00721,Direct Digital,South,Silver,2020-01-06,1,86.8,MGR025
+AGT00722,Bank Partner,Northeast,Developing,2015-05-20,14,94.7,MGR029
+AGT00723,Bank Partner,West,Developing,2013-02-08,6,87.7,MGR042
+AGT00724,Brokerage,Midwest,Developing,2014-10-18,5,81.1,MGR027
+AGT00725,Worksite,Midwest,Developing,2013-01-08,1,89.9,MGR018
+AGT00726,Brokerage,South,Gold,2013-06-16,6,78.9,MGR011
+AGT00727,Direct Digital,Northeast,Developing,2020-04-24,0,95.0,MGR006
+AGT00728,Worksite,South,Gold,2020-03-31,14,93.3,MGR080
+AGT00729,Worksite,South,Developing,2018-07-28,7,87.7,MGR051
+AGT00730,Career Agent,West,Developing,2024-02-23,5,85.3,MGR030
+AGT00731,Worksite,West,Silver,2022-11-27,7,85.6,MGR079
+AGT00732,Brokerage,South,Developing,2016-11-10,15,86.3,MGR070
+AGT00733,Brokerage,South,Developing,2023-10-06,8,85.1,MGR001
+AGT00734,Brokerage,Midwest,Platinum,2017-02-03,1,86.6,MGR053
+AGT00735,Career Agent,Northeast,Gold,2014-10-05,14,98,MGR001
+AGT00736,Direct Digital,South,Silver,2022-03-15,11,87.7,MGR032
+AGT00737,Direct Digital,South,Developing,2024-07-29,5,92.2,MGR043
+AGT00738,Career Agent,Midwest,Developing,2022-03-28,1,89.6,MGR073
+AGT00739,Bank Partner,West,Silver,2014-03-23,1,91.3,MGR038
+AGT00740,Career Agent,South,Gold,2024-05-27,19,93.2,MGR033
+AGT00741,Brokerage,Midwest,Silver,2017-09-04,3,84.1,MGR074
+AGT00742,Bank Partner,Northeast,Gold,2014-07-24,7,87.2,MGR090
+AGT00743,Brokerage,South,Developing,2020-09-09,6,90.5,MGR035
+AGT00744,Bank Partner,Northeast,Developing,2020-07-24,4,95.7,MGR085
+AGT00745,Direct Digital,South,Developing,2016-12-22,10,73.4,MGR082
+AGT00746,Worksite,Northeast,Developing,2022-01-30,1,78.0,MGR040
+AGT00747,Bank Partner,Northeast,Silver,2013-03-22,8,85.4,MGR072
+AGT00748,Brokerage,South,Developing,2024-11-16,16,75.7,MGR066
+AGT00749,Direct Digital,South,Developing,2020-06-05,10,78.1,MGR001
+AGT00750,Career Agent,South,Silver,2022-01-22,1,84.9,MGR024
+AGT00751,Career Agent,South,Developing,2022-09-19,0,86.1,MGR060
+AGT00752,Direct Digital,Midwest,Developing,2021-02-04,2,86.0,MGR050
+AGT00753,Brokerage,West,Gold,2016-01-21,5,98,MGR069
+AGT00754,Career Agent,Midwest,Gold,2020-02-13,2,92.4,MGR060
+AGT00755,Career Agent,West,Developing,2020-02-18,3,81.3,MGR072
+AGT00756,Brokerage,West,Gold,2017-08-28,1,81.1,MGR082
+AGT00757,Direct Digital,Northeast,Gold,2021-03-18,3,81.3,MGR085
+AGT00758,Brokerage,Northeast,Silver,2013-10-22,0,73.5,MGR009
+AGT00759,Brokerage,Midwest,Silver,2019-10-25,3,85.4,MGR073
+AGT00760,Brokerage,West,Developing,2021-03-09,2,87.3,MGR052
+AGT00761,Brokerage,West,Silver,2012-05-07,1,77.3,MGR048
+AGT00762,Bank Partner,South,Gold,2023-02-27,0,98,MGR038
+AGT00763,Brokerage,Midwest,Silver,2018-11-05,0,86.2,MGR057
+AGT00764,Bank Partner,Midwest,Platinum,2017-09-11,6,93.3,MGR005
+AGT00765,Brokerage,West,Developing,2017-03-30,7,88.6,MGR058
+AGT00766,Direct Digital,West,Platinum,2018-05-13,9,98,MGR068
+AGT00767,Worksite,West,Platinum,2013-04-28,2,91.7,MGR004
+AGT00768,Brokerage,Midwest,Platinum,2013-06-06,11,83.9,MGR005
+AGT00769,Direct Digital,South,Silver,2014-08-24,6,94.8,MGR028
+AGT00770,Brokerage,South,Silver,2012-10-15,1,94.2,MGR068
+AGT00771,Brokerage,Midwest,Silver,2023-04-19,2,81.2,MGR055
+AGT00772,Brokerage,South,Developing,2013-11-01,1,95.1,MGR007
+AGT00773,Bank Partner,South,Silver,2020-05-06,0,76.1,MGR023
+AGT00774,Brokerage,West,Platinum,2012-05-01,0,87.2,MGR003
+AGT00775,Brokerage,West,Silver,2021-10-28,6,94.0,MGR045
+AGT00776,Direct Digital,South,Gold,2012-06-24,3,98,MGR036
+AGT00777,Bank Partner,Northeast,Silver,2024-09-18,23,90.1,MGR006
+AGT00778,Brokerage,West,Developing,2013-02-08,5,81.7,MGR007
+AGT00779,Worksite,West,Silver,2021-05-18,1,84.3,MGR074
+AGT00780,Brokerage,West,Silver,2021-05-28,6,84.5,MGR063
+AGT00781,Bank Partner,Northeast,Silver,2013-12-19,2,80.6,MGR077
+AGT00782,Career Agent,South,Silver,2023-08-30,34,86.3,MGR006
+AGT00783,Bank Partner,West,Platinum,2021-01-13,0,85.5,MGR082
+AGT00784,Worksite,West,Developing,2016-02-26,19,95.2,MGR037
+AGT00785,Worksite,Midwest,Developing,2014-06-02,3,86.2,MGR034
+AGT00786,Brokerage,Midwest,Developing,2018-10-05,4,81.1,MGR009
+AGT00787,Career Agent,South,Silver,2021-05-31,0,77.6,MGR020
+AGT00788,Direct Digital,West,Silver,2024-03-04,14,84.8,MGR055
+AGT00789,Bank Partner,South,Silver,2021-04-28,15,88.7,MGR068
+AGT00790,Worksite,Midwest,Silver,2022-09-20,3,86.5,MGR054
+AGT00791,Bank Partner,South,Developing,2015-04-09,15,90.8,MGR053
+AGT00792,Direct Digital,West,Developing,2015-05-20,7,92.9,MGR020
+AGT00793,Career Agent,South,Silver,2012-04-25,8,93.8,MGR058
+AGT00794,Bank Partner,West,Gold,2017-01-28,6,90.3,MGR047
+AGT00795,Worksite,Northeast,Gold,2018-10-25,2,95.4,MGR048
+AGT00796,Career Agent,South,Silver,2013-05-17,2,92.7,MGR044
+AGT00797,Career Agent,West,Gold,2019-01-19,1,89.9,MGR061
+AGT00798,Bank Partner,Northeast,Silver,2014-02-17,1,86.3,MGR027
+AGT00799,Direct Digital,West,Gold,2015-08-08,6,88.5,MGR055
+AGT00800,Direct Digital,South,Gold,2024-02-26,2,83.5,MGR004
+AGT00801,Career Agent,South,Silver,2020-04-04,25,85.0,MGR041
+AGT00802,Bank Partner,South,Silver,2017-09-10,4,85.1,MGR007
+AGT00803,Brokerage,South,Developing,2015-02-26,3,78.9,MGR016
+AGT00804,Brokerage,Midwest,Developing,2021-09-12,8,76.5,MGR055
+AGT00805,Brokerage,South,Silver,2019-07-04,0,92.6,MGR052
+AGT00806,Worksite,Northeast,Silver,2024-04-27,1,81.1,MGR089
+AGT00807,Career Agent,South,Silver,2016-08-24,1,88.5,MGR063
+AGT00808,Direct Digital,West,Silver,2012-12-21,0,78.5,MGR067
+AGT00809,Brokerage,West,Gold,2024-06-12,23,98,MGR054
+AGT00810,Career Agent,South,Developing,2024-01-06,7,90.0,MGR042
+AGT00811,Career Agent,West,Developing,2018-10-26,0,80.7,MGR056
+AGT00812,Career Agent,West,Developing,2021-04-20,5,86.7,MGR028
+AGT00813,Career Agent,South,Gold,2018-11-05,3,87.6,MGR036
+AGT00814,Bank Partner,Northeast,Developing,2018-01-04,2,81.3,MGR052
+AGT00815,Brokerage,West,Gold,2015-02-22,6,71.8,MGR004
+AGT00816,Brokerage,South,Gold,2013-12-31,1,89.4,MGR008
+AGT00817,Bank Partner,Northeast,Developing,2013-11-13,6,92.0,MGR010
+AGT00818,Career Agent,South,Platinum,2023-03-16,15,98,MGR060
+AGT00819,Worksite,Northeast,Developing,2017-05-28,19,95.8,MGR085
+AGT00820,Career Agent,West,Developing,2015-03-05,2,90.8,MGR059
+AGT00821,Career Agent,West,Silver,2015-11-24,6,82.1,MGR065
+AGT00822,Brokerage,Northeast,Developing,2023-01-26,15,80.3,MGR027
+AGT00823,Career Agent,West,Silver,2015-07-22,0,92.5,MGR029
+AGT00824,Career Agent,Northeast,Silver,2017-03-18,0,82.9,MGR041
+AGT00825,Brokerage,West,Platinum,2017-05-30,6,93.1,MGR061
+AGT00826,Brokerage,Northeast,Developing,2023-10-14,1,83.7,MGR084
+AGT00827,Career Agent,Midwest,Silver,2022-11-10,12,84.6,MGR087
+AGT00828,Brokerage,South,Developing,2015-05-07,2,90.1,MGR006
+AGT00829,Worksite,South,Gold,2014-12-17,1,94.7,MGR032
+AGT00830,Direct Digital,Northeast,Gold,2015-07-14,0,95.6,MGR072
+AGT00831,Brokerage,West,Developing,2012-09-17,5,87.2,MGR046
+AGT00832,Direct Digital,Northeast,Gold,2018-06-24,10,83.9,MGR003
+AGT00833,Career Agent,Midwest,Developing,2015-04-17,0,84.7,MGR004
+AGT00834,Career Agent,Midwest,Gold,2013-12-29,3,93.9,MGR034
+AGT00835,Brokerage,South,Silver,2017-02-12,5,95.1,MGR082
+AGT00836,Worksite,Midwest,Developing,2021-05-11,1,87.9,MGR079
+AGT00837,Career Agent,South,Silver,2020-03-26,9,82.0,MGR048
+AGT00838,Direct Digital,West,Gold,2016-06-05,0,98,MGR077
+AGT00839,Brokerage,South,Silver,2019-01-11,0,88.2,MGR007
+AGT00840,Career Agent,Northeast,Gold,2019-12-25,34,79.3,MGR052
+AGT00841,Direct Digital,Northeast,Silver,2023-11-22,0,87.3,MGR049
+AGT00842,Direct Digital,South,Silver,2021-02-28,1,93.0,MGR068
+AGT00843,Brokerage,Northeast,Developing,2021-06-27,10,91.1,MGR061
+AGT00844,Direct Digital,West,Developing,2016-07-28,2,85.9,MGR010
+AGT00845,Brokerage,South,Silver,2017-01-15,5,91.4,MGR083
+AGT00846,Brokerage,Midwest,Developing,2013-10-25,4,84.2,MGR072
+AGT00847,Career Agent,South,Silver,2018-03-01,24,82.2,MGR036
+AGT00848,Direct Digital,West,Developing,2022-02-21,2,95.9,MGR064
+AGT00849,Career Agent,South,Developing,2024-09-24,0,84.6,MGR083
+AGT00850,Worksite,South,Gold,2013-12-24,4,91.7,MGR055
+AGT00851,Direct Digital,South,Developing,2024-10-20,0,76.4,MGR060
+AGT00852,Brokerage,Northeast,Developing,2013-06-21,3,87.1,MGR004
+AGT00853,Career Agent,Northeast,Silver,2015-08-23,6,83.9,MGR068
+AGT00854,Worksite,South,Silver,2018-04-24,7,84.9,MGR008
+AGT00855,Direct Digital,South,Silver,2014-09-08,3,87.4,MGR054
+AGT00856,Career Agent,West,Developing,2017-02-11,1,76.3,MGR054
+AGT00857,Career Agent,South,Developing,2012-02-16,7,78.5,MGR062
+AGT00858,Direct Digital,West,Silver,2022-04-08,1,89.2,MGR021
+AGT00859,Brokerage,Midwest,Silver,2015-11-28,13,82.8,MGR011
+AGT00860,Direct Digital,Northeast,Developing,2018-02-10,8,88.3,MGR017
+AGT00861,Career Agent,West,Developing,2021-02-12,10,91.7,MGR039
+AGT00862,Direct Digital,South,Platinum,2021-02-01,13,92.0,MGR072
+AGT00863,Direct Digital,Midwest,Gold,2016-10-14,4,88.0,MGR038
+AGT00864,Career Agent,West,Developing,2024-05-13,5,84.0,MGR010
+AGT00865,Direct Digital,Northeast,Developing,2022-12-19,2,98,MGR017
+AGT00866,Direct Digital,Northeast,Silver,2015-08-14,2,92.9,MGR068
+AGT00867,Career Agent,Northeast,Developing,2020-11-15,3,82.6,MGR007
+AGT00868,Brokerage,Northeast,Platinum,2012-08-25,3,91.3,MGR031
+AGT00869,Bank Partner,South,Platinum,2013-01-16,2,83.9,MGR058
+AGT00870,Career Agent,South,Silver,2016-12-02,5,81.2,MGR057
+AGT00871,Career Agent,South,Silver,2024-02-22,3,83.8,MGR022
+AGT00872,Brokerage,South,Developing,2024-06-01,4,85.4,MGR018
+AGT00873,Career Agent,Northeast,Gold,2014-05-25,1,81.9,MGR036
+AGT00874,Career Agent,Midwest,Developing,2017-11-12,11,90.7,MGR007
+AGT00875,Career Agent,Midwest,Gold,2016-05-01,2,90.5,MGR042
+AGT00876,Bank Partner,South,Silver,2017-10-19,0,73.3,MGR022
+AGT00877,Bank Partner,West,Silver,2019-09-15,6,85.2,MGR080
+AGT00878,Career Agent,West,Developing,2014-04-19,7,83.0,MGR053
+AGT00879,Career Agent,West,Gold,2013-05-21,15,91.8,MGR052
+AGT00880,Worksite,Northeast,Silver,2020-11-20,5,86.0,MGR051
+AGT00881,Brokerage,South,Developing,2016-04-04,1,92.5,MGR002
+AGT00882,Direct Digital,West,Silver,2017-04-04,9,93.9,MGR059
+AGT00883,Direct Digital,South,Developing,2020-07-29,3,75.7,MGR089
+AGT00884,Brokerage,Northeast,Gold,2017-07-25,5,95.5,MGR060
+AGT00885,Worksite,West,Silver,2015-12-23,3,72.2,MGR019
+AGT00886,Career Agent,South,Developing,2021-12-16,3,88.5,MGR089
+AGT00887,Brokerage,Northeast,Developing,2017-02-21,6,88.6,MGR025
+AGT00888,Career Agent,Midwest,Gold,2016-04-16,11,92.3,MGR070
+AGT00889,Direct Digital,West,Silver,2022-02-12,5,88.4,MGR088
+AGT00890,Worksite,Midwest,Silver,2022-03-06,7,88.0,MGR061
+AGT00891,Bank Partner,South,Platinum,2016-07-12,3,93.8,MGR009
+AGT00892,Career Agent,South,Silver,2012-08-13,3,79.9,MGR023
+AGT00893,Brokerage,South,Silver,2022-05-06,4,87.7,MGR071
+AGT00894,Bank Partner,South,Gold,2015-05-30,0,93.7,MGR083
+AGT00895,Career Agent,South,Developing,2020-09-30,4,79.7,MGR018
+AGT00896,Career Agent,West,Silver,2012-07-18,1,92.0,MGR025
+AGT00897,Career Agent,Midwest,Silver,2016-08-25,2,82.4,MGR040
+AGT00898,Brokerage,Midwest,Developing,2023-01-08,0,86.8,MGR089
+AGT00899,Bank Partner,West,Developing,2021-08-21,3,86.3,MGR062
+AGT00900,Worksite,South,Developing,2024-12-31,0,89.2,MGR060
+AGT00901,Brokerage,West,Silver,2021-02-26,7,85.5,MGR061
+AGT00902,Bank Partner,Northeast,Developing,2019-01-11,9,93.7,MGR089
+AGT00903,Career Agent,Northeast,Silver,2024-04-03,0,82.9,MGR046
+AGT00904,Career Agent,South,Silver,2013-08-25,8,86.8,MGR075
+AGT00905,Career Agent,West,Developing,2015-12-11,0,78.7,MGR006
+AGT00906,Worksite,West,Platinum,2018-10-30,8,98,MGR009
+AGT00907,Worksite,Midwest,Gold,2024-04-20,0,90.5,MGR059
+AGT00908,Brokerage,South,Gold,2014-09-27,0,92.4,MGR020
+AGT00909,Worksite,Midwest,Gold,2015-06-14,15,85.9,MGR036
+AGT00910,Direct Digital,West,Silver,2021-07-11,2,94.9,MGR009
+AGT00911,Direct Digital,Midwest,Developing,2015-12-07,2,78.7,MGR031
+AGT00912,Direct Digital,South,Developing,2023-02-07,7,88.2,MGR035
+AGT00913,Brokerage,West,Silver,2019-03-04,0,95.1,MGR022
+AGT00914,Career Agent,West,Developing,2016-09-19,4,80.3,MGR072
+AGT00915,Worksite,South,Developing,2015-08-08,8,92.5,MGR066
+AGT00916,Career Agent,South,Platinum,2017-10-30,2,98,MGR048
+AGT00917,Worksite,South,Silver,2018-03-04,1,83.3,MGR051
+AGT00918,Career Agent,West,Silver,2012-11-20,3,89.6,MGR042
+AGT00919,Brokerage,South,Developing,2012-06-19,0,92.0,MGR030
+AGT00920,Direct Digital,Northeast,Silver,2018-11-26,7,81.8,MGR042
+AGT00921,Bank Partner,South,Gold,2014-08-08,0,96.7,MGR020
+AGT00922,Brokerage,Midwest,Developing,2014-10-12,4,79.2,MGR071
+AGT00923,Brokerage,Northeast,Silver,2016-03-27,0,86.8,MGR084
+AGT00924,Direct Digital,South,Silver,2016-04-12,2,87.5,MGR080
+AGT00925,Worksite,South,Developing,2023-05-10,1,84.9,MGR062
+AGT00926,Brokerage,Northeast,Platinum,2015-12-02,17,95.1,MGR002
+AGT00927,Career Agent,Midwest,Silver,2017-04-20,5,94.1,MGR084
+AGT00928,Direct Digital,South,Silver,2019-05-12,1,80.8,MGR059
+AGT00929,Worksite,South,Silver,2014-01-27,4,89.9,MGR058
+AGT00930,Career Agent,West,Platinum,2014-11-17,12,89.7,MGR046
+AGT00931,Worksite,Midwest,Developing,2016-08-01,2,85.3,MGR039
+AGT00932,Brokerage,South,Gold,2012-02-09,19,92.3,MGR058
+AGT00933,Bank Partner,West,Developing,2022-09-04,6,98,MGR074
+AGT00934,Brokerage,Midwest,Silver,2019-05-02,0,88.7,MGR027
+AGT00935,Career Agent,South,Silver,2020-04-08,1,82.1,MGR032
+AGT00936,Worksite,Northeast,Developing,2016-03-08,0,91.4,MGR082
+AGT00937,Career Agent,South,Gold,2012-10-15,2,86.4,MGR069
+AGT00938,Brokerage,West,Silver,2013-09-21,2,90.1,MGR016
+AGT00939,Direct Digital,West,Silver,2012-12-17,5,87.1,MGR014
+AGT00940,Career Agent,West,Gold,2020-03-28,4,80.3,MGR072
+AGT00941,Worksite,Midwest,Silver,2023-05-05,0,86.4,MGR004
+AGT00942,Career Agent,South,Gold,2017-01-03,4,98,MGR002
+AGT00943,Career Agent,Midwest,Developing,2024-07-22,7,93.5,MGR010
+AGT00944,Bank Partner,South,Developing,2018-02-17,8,84.2,MGR020
+AGT00945,Direct Digital,South,Silver,2013-07-18,0,86.4,MGR079
+AGT00946,Direct Digital,West,Developing,2023-01-14,0,71.2,MGR024
+AGT00947,Brokerage,South,Platinum,2021-12-02,7,88.1,MGR043
+AGT00948,Bank Partner,South,Developing,2020-01-25,2,92.0,MGR057
+AGT00949,Bank Partner,Midwest,Silver,2022-11-10,9,85.8,MGR055
+AGT00950,Direct Digital,Northeast,Silver,2017-07-08,17,82.2,MGR066
+AGT00951,Career Agent,Midwest,Developing,2018-10-06,15,80.9,MGR032
+AGT00952,Brokerage,Midwest,Silver,2019-05-19,0,92.4,MGR017
+AGT00953,Career Agent,Northeast,Silver,2018-11-05,3,82.2,MGR080
+AGT00954,Brokerage,South,Developing,2023-01-14,6,84.0,MGR040
+AGT00955,Direct Digital,Northeast,Silver,2015-11-24,5,88.9,MGR054
+AGT00956,Career Agent,South,Silver,2016-09-11,9,84.4,MGR001
+AGT00957,Bank Partner,Midwest,Platinum,2018-12-29,3,90.8,MGR028
+AGT00958,Bank Partner,Northeast,Silver,2022-04-20,4,81.1,MGR041
+AGT00959,Bank Partner,South,Gold,2015-01-08,2,87.9,MGR061
+AGT00960,Brokerage,West,Silver,2020-04-17,16,92.3,MGR041
+AGT00961,Brokerage,West,Developing,2015-12-09,1,84.4,MGR085
+AGT00962,Direct Digital,West,Developing,2012-06-02,5,87.5,MGR032
+AGT00963,Brokerage,West,Silver,2020-06-03,10,86.6,MGR024
+AGT00964,Brokerage,Northeast,Platinum,2017-03-31,5,92.3,MGR004
+AGT00965,Career Agent,Northeast,Silver,2023-04-14,13,86.3,MGR025
+AGT00966,Career Agent,Northeast,Silver,2021-03-13,0,89.1,MGR077
+AGT00967,Brokerage,Northeast,Developing,2016-12-06,0,91.7,MGR015
+AGT00968,Bank Partner,Midwest,Gold,2014-10-13,7,90.1,MGR079
+AGT00969,Brokerage,Midwest,Gold,2024-12-11,0,94.1,MGR015
+AGT00970,Direct Digital,South,Gold,2016-11-09,1,91.2,MGR059
+AGT00971,Direct Digital,South,Developing,2015-10-23,4,92.5,MGR078
+AGT00972,Direct Digital,Midwest,Gold,2019-04-27,0,83.2,MGR082
+AGT00973,Direct Digital,South,Platinum,2012-05-18,9,85.7,MGR055
+AGT00974,Career Agent,Midwest,Silver,2015-01-29,5,81.5,MGR030
+AGT00975,Brokerage,West,Gold,2012-09-22,2,94.8,MGR003
+AGT00976,Career Agent,South,Silver,2015-07-20,6,80.4,MGR064
+AGT00977,Direct Digital,South,Silver,2012-01-30,1,85.3,MGR084
+AGT00978,Career Agent,Northeast,Silver,2016-07-23,1,84.1,MGR057
+AGT00979,Brokerage,Northeast,Silver,2016-08-13,10,82.4,MGR089
+AGT00980,Brokerage,South,Platinum,2022-04-25,16,85.0,MGR011
+AGT00981,Bank Partner,Northeast,Developing,2024-09-05,4,90.1,MGR081
+AGT00982,Direct Digital,Northeast,Silver,2013-08-01,4,92.2,MGR036
+AGT00983,Career Agent,Midwest,Developing,2019-03-26,0,83.8,MGR008
+AGT00984,Bank Partner,South,Developing,2015-12-28,6,88.4,MGR086
+AGT00985,Bank Partner,West,Platinum,2022-12-19,0,85.6,MGR013
+AGT00986,Career Agent,West,Gold,2024-06-20,0,84.0,MGR037
+AGT00987,Brokerage,West,Silver,2018-04-19,1,82.3,MGR021
+AGT00988,Career Agent,West,Silver,2019-06-18,2,94.8,MGR085
+AGT00989,Worksite,South,Developing,2019-05-11,8,77.5,MGR087
+AGT00990,Brokerage,South,Silver,2021-05-07,1,80.3,MGR067
+AGT00991,Career Agent,West,Gold,2014-09-23,4,92.9,MGR052
+AGT00992,Career Agent,South,Silver,2020-07-11,12,83.6,MGR070
+AGT00993,Direct Digital,Midwest,Gold,2016-01-03,0,93.3,MGR034
+AGT00994,Worksite,Midwest,Developing,2024-10-23,15,88.0,MGR027
+AGT00995,Worksite,Midwest,Platinum,2019-09-01,0,98,MGR051
+AGT00996,Brokerage,South,Silver,2023-09-28,1,90.2,MGR024
+AGT00997,Direct Digital,Northeast,Gold,2023-11-18,4,90.0,MGR036
+AGT00998,Career Agent,South,Developing,2014-02-10,6,78.7,MGR035
+AGT00999,Career Agent,Northeast,Silver,2021-12-26,1,74.1,MGR078
+AGT01000,Direct Digital,West,Silver,2023-04-29,18,90.1,MGR065
+AGT01001,Brokerage,South,Silver,2021-10-24,3,80.8,MGR061
+AGT01002,Career Agent,Midwest,Developing,2015-04-26,3,78.4,MGR045
+AGT01003,Brokerage,South,Platinum,2015-02-24,1,97.5,MGR071
+AGT01004,Direct Digital,South,Gold,2021-10-21,5,91.9,MGR084
+AGT01005,Brokerage,West,Platinum,2022-10-26,5,82.5,MGR063
+AGT01006,Brokerage,Midwest,Developing,2021-03-28,0,91.6,MGR035
+AGT01007,Bank Partner,South,Gold,2022-12-06,0,86.0,MGR079
+AGT01008,Brokerage,South,Developing,2023-10-16,8,82.5,MGR076
+AGT01009,Direct Digital,West,Silver,2024-09-07,8,86.1,MGR027
+AGT01010,Brokerage,South,Silver,2013-08-14,1,90.9,MGR006
+AGT01011,Direct Digital,Midwest,Developing,2018-05-08,5,95.4,MGR074
+AGT01012,Brokerage,Northeast,Developing,2021-09-27,5,89.7,MGR019
+AGT01013,Brokerage,Midwest,Silver,2013-01-12,10,88.6,MGR039
+AGT01014,Direct Digital,Northeast,Developing,2024-03-23,4,86.0,MGR009
+AGT01015,Direct Digital,South,Developing,2024-02-15,0,80.7,MGR073
+AGT01016,Direct Digital,South,Silver,2022-11-18,10,84.5,MGR076
+AGT01017,Brokerage,Midwest,Developing,2024-08-16,5,97.9,MGR014
+AGT01018,Direct Digital,Northeast,Gold,2013-05-01,3,92.5,MGR025
+AGT01019,Brokerage,Northeast,Developing,2021-09-06,1,79.4,MGR057
+AGT01020,Brokerage,West,Silver,2017-01-19,7,87.3,MGR076
+AGT01021,Direct Digital,South,Gold,2018-03-20,1,91.8,MGR002
+AGT01022,Worksite,South,Developing,2015-12-26,7,78.5,MGR012
+AGT01023,Bank Partner,West,Developing,2016-05-19,0,98,MGR042
+AGT01024,Direct Digital,West,Silver,2022-07-15,8,98,MGR037
+AGT01025,Direct Digital,West,Developing,2014-03-06,1,80.9,MGR029
+AGT01026,Brokerage,South,Developing,2015-11-16,2,81.0,MGR087
+AGT01027,Bank Partner,West,Silver,2023-04-04,11,84.7,MGR029
+AGT01028,Worksite,South,Silver,2017-06-13,1,87.8,MGR024
+AGT01029,Career Agent,Northeast,Platinum,2020-09-29,11,92.1,MGR049
+AGT01030,Career Agent,West,Gold,2013-03-17,9,73.7,MGR054
+AGT01031,Career Agent,South,Gold,2022-04-02,7,81.8,MGR068
+AGT01032,Worksite,South,Developing,2017-10-03,7,89.1,MGR015
+AGT01033,Direct Digital,West,Gold,2016-09-05,10,87.8,MGR024
+AGT01034,Brokerage,South,Silver,2020-03-20,0,87.5,MGR090
+AGT01035,Brokerage,Northeast,Silver,2016-06-05,1,81.2,MGR022
+AGT01036,Career Agent,South,Silver,2018-03-22,11,86.8,MGR043
+AGT01037,Career Agent,Northeast,Developing,2012-06-14,1,82.8,MGR077
+AGT01038,Brokerage,South,Gold,2020-07-07,2,93.2,MGR032
+AGT01039,Career Agent,Northeast,Gold,2012-10-28,6,98,MGR077
+AGT01040,Worksite,South,Developing,2012-12-02,13,82.1,MGR071
+AGT01041,Career Agent,Midwest,Developing,2017-10-11,3,94.3,MGR038
+AGT01042,Career Agent,Northeast,Silver,2023-05-21,5,80.6,MGR067
+AGT01043,Direct Digital,Northeast,Silver,2016-02-01,2,81.4,MGR027
+AGT01044,Direct Digital,West,Developing,2019-05-08,10,84.1,MGR029
+AGT01045,Direct Digital,West,Silver,2013-03-30,2,87.0,MGR065
+AGT01046,Direct Digital,South,Silver,2020-04-29,0,74.9,MGR013
+AGT01047,Worksite,South,Silver,2013-01-07,1,90.1,MGR090
+AGT01048,Direct Digital,South,Platinum,2021-02-18,13,82.5,MGR014
+AGT01049,Brokerage,Northeast,Silver,2017-08-13,14,86.9,MGR052
+AGT01050,Career Agent,South,Gold,2017-03-02,11,84.6,MGR073
+AGT01051,Brokerage,South,Gold,2016-06-02,1,82.7,MGR087
+AGT01052,Career Agent,South,Silver,2012-12-10,3,80.5,MGR027
+AGT01053,Brokerage,West,Gold,2021-02-12,11,90.6,MGR027
+AGT01054,Brokerage,Northeast,Gold,2023-09-14,13,90.1,MGR050
+AGT01055,Career Agent,Northeast,Silver,2024-02-24,0,86.4,MGR088
+AGT01056,Career Agent,Midwest,Developing,2023-02-15,1,78.1,MGR045
+AGT01057,Career Agent,West,Developing,2019-01-23,3,95.3,MGR039
+AGT01058,Career Agent,South,Platinum,2022-01-25,2,92.3,MGR064
+AGT01059,Brokerage,West,Developing,2013-05-12,12,90.0,MGR087
+AGT01060,Direct Digital,South,Gold,2014-10-19,0,79.9,MGR035
+AGT01061,Worksite,West,Silver,2013-09-22,2,74.9,MGR078
+AGT01062,Direct Digital,West,Silver,2023-12-25,0,91.7,MGR052
+AGT01063,Brokerage,Midwest,Silver,2019-10-30,5,85.6,MGR037
+AGT01064,Brokerage,Northeast,Silver,2021-11-13,2,87.0,MGR032
+AGT01065,Career Agent,West,Silver,2015-01-28,1,97.3,MGR071
+AGT01066,Brokerage,Northeast,Silver,2017-10-15,3,87.5,MGR044
+AGT01067,Career Agent,West,Developing,2023-01-31,1,85.5,MGR021
+AGT01068,Brokerage,South,Platinum,2013-02-03,5,93.4,MGR058
+AGT01069,Career Agent,Northeast,Developing,2018-03-02,5,82.4,MGR051
+AGT01070,Bank Partner,South,Gold,2022-01-19,4,83.8,MGR009
+AGT01071,Career Agent,South,Silver,2021-11-19,9,86.7,MGR043
+AGT01072,Brokerage,Midwest,Gold,2022-06-26,8,84.0,MGR033
+AGT01073,Brokerage,South,Gold,2021-01-19,1,89.4,MGR014
+AGT01074,Brokerage,Northeast,Silver,2013-02-16,0,83.0,MGR038
+AGT01075,Brokerage,South,Developing,2018-02-02,13,76.7,MGR079
+AGT01076,Direct Digital,South,Gold,2018-07-10,0,97.9,MGR083
+AGT01077,Worksite,Northeast,Gold,2019-01-17,3,85.0,MGR019
+AGT01078,Bank Partner,South,Silver,2012-12-01,13,85.9,MGR008
+AGT01079,Career Agent,West,Gold,2013-05-25,6,93.7,MGR036
+AGT01080,Brokerage,South,Silver,2024-07-20,7,83.0,MGR021
+AGT01081,Bank Partner,West,Gold,2021-09-07,2,85.6,MGR036
+AGT01082,Brokerage,South,Developing,2021-05-01,1,76.2,MGR002
+AGT01083,Brokerage,West,Developing,2022-02-10,3,95.5,MGR043
+AGT01084,Brokerage,Northeast,Silver,2017-11-13,0,78.3,MGR054
+AGT01085,Brokerage,South,Silver,2012-02-20,21,89.3,MGR061
+AGT01086,Career Agent,South,Developing,2012-02-16,5,80.9,MGR082
+AGT01087,Worksite,West,Silver,2015-02-21,1,88.7,MGR017
+AGT01088,Direct Digital,Northeast,Developing,2014-08-12,12,87.8,MGR036
+AGT01089,Direct Digital,Northeast,Gold,2024-03-01,0,84.3,MGR037
+AGT01090,Career Agent,West,Silver,2019-10-01,4,83.1,MGR017
+AGT01091,Career Agent,West,Developing,2015-12-11,3,91.9,MGR057
+AGT01092,Brokerage,Northeast,Gold,2014-02-19,0,82.9,MGR011
+AGT01093,Career Agent,Northeast,Developing,2016-09-06,7,83.9,MGR071
+AGT01094,Career Agent,Northeast,Developing,2019-06-21,1,89.3,MGR011
+AGT01095,Direct Digital,Northeast,Developing,2018-07-19,4,92.6,MGR051
+AGT01096,Career Agent,Midwest,Platinum,2016-09-03,1,85.8,MGR071
+AGT01097,Brokerage,South,Silver,2016-04-05,22,94.3,MGR058
+AGT01098,Brokerage,Northeast,Developing,2014-03-14,8,75.7,MGR035
+AGT01099,Direct Digital,South,Developing,2023-05-11,7,85.9,MGR060
+AGT01100,Brokerage,Midwest,Gold,2016-11-17,7,87.2,MGR032
+AGT01101,Brokerage,South,Developing,2014-07-13,1,85.9,MGR062
+AGT01102,Bank Partner,South,Gold,2018-04-20,0,94.8,MGR046
+AGT01103,Direct Digital,South,Silver,2014-01-13,9,89.8,MGR053
+AGT01104,Career Agent,Northeast,Developing,2024-05-26,3,88.4,MGR045
+AGT01105,Bank Partner,Midwest,Developing,2017-04-05,11,86.2,MGR042
+AGT01106,Direct Digital,West,Developing,2021-03-27,1,84.9,MGR028
+AGT01107,Career Agent,South,Silver,2019-06-06,1,91.2,MGR023
+AGT01108,Career Agent,Midwest,Silver,2015-06-24,1,89.1,MGR059
+AGT01109,Career Agent,Northeast,Developing,2015-08-31,6,91.8,MGR072
+AGT01110,Direct Digital,West,Gold,2020-12-12,22,92.4,MGR084
+AGT01111,Career Agent,Midwest,Developing,2020-11-03,1,89.8,MGR036
+AGT01112,Career Agent,West,Developing,2022-03-03,2,85.3,MGR090
+AGT01113,Bank Partner,South,Platinum,2019-04-08,0,96.2,MGR024
+AGT01114,Career Agent,Northeast,Gold,2023-10-11,4,92.9,MGR046
+AGT01115,Brokerage,South,Developing,2019-10-03,2,84.8,MGR074
+AGT01116,Career Agent,South,Silver,2021-03-20,4,91.8,MGR038
+AGT01117,Bank Partner,West,Gold,2012-09-02,2,96.2,MGR034
+AGT01118,Worksite,West,Developing,2017-11-09,0,82.6,MGR059
+AGT01119,Career Agent,South,Silver,2012-04-05,6,98,MGR068
+AGT01120,Direct Digital,South,Developing,2022-12-20,2,79.3,MGR050
+AGT01121,Career Agent,South,Developing,2019-12-27,2,84.1,MGR055
+AGT01122,Brokerage,Midwest,Silver,2015-08-12,3,92.4,MGR028
+AGT01123,Career Agent,South,Developing,2016-10-25,2,91.1,MGR048
+AGT01124,Direct Digital,South,Gold,2024-05-30,5,84.5,MGR027
+AGT01125,Bank Partner,Midwest,Silver,2021-07-28,1,84.1,MGR007
+AGT01126,Brokerage,South,Gold,2012-04-21,0,79.8,MGR017
+AGT01127,Career Agent,South,Developing,2016-09-07,0,87.5,MGR001
+AGT01128,Career Agent,South,Gold,2020-04-21,3,86.1,MGR061
+AGT01129,Bank Partner,West,Silver,2013-01-08,1,83.9,MGR017
+AGT01130,Direct Digital,Midwest,Silver,2019-07-08,11,82.8,MGR077
+AGT01131,Direct Digital,West,Platinum,2022-08-10,1,87.3,MGR074
+AGT01132,Brokerage,South,Silver,2012-11-04,10,91.9,MGR072
+AGT01133,Brokerage,South,Gold,2012-11-23,1,91.8,MGR026
+AGT01134,Brokerage,West,Developing,2012-03-15,3,94.2,MGR035
+AGT01135,Brokerage,South,Silver,2020-09-21,14,91.0,MGR051
+AGT01136,Bank Partner,West,Silver,2020-08-22,2,80.8,MGR080
+AGT01137,Bank Partner,South,Silver,2019-09-06,5,69.8,MGR063
+AGT01138,Brokerage,West,Silver,2020-07-03,4,82.2,MGR049
+AGT01139,Direct Digital,West,Developing,2013-04-15,4,82.2,MGR044
+AGT01140,Bank Partner,West,Developing,2020-01-01,10,82.8,MGR068
+AGT01141,Bank Partner,Midwest,Platinum,2016-12-19,1,96.5,MGR090
+AGT01142,Direct Digital,West,Gold,2014-07-06,3,98,MGR069
+AGT01143,Worksite,South,Platinum,2017-10-29,7,88.1,MGR087
+AGT01144,Career Agent,Midwest,Developing,2022-12-18,14,85.5,MGR005
+AGT01145,Brokerage,West,Developing,2023-09-29,2,80.5,MGR067
+AGT01146,Bank Partner,South,Silver,2015-10-26,14,82.8,MGR020
+AGT01147,Brokerage,South,Gold,2021-05-19,1,81.7,MGR056
+AGT01148,Direct Digital,Northeast,Silver,2014-06-13,6,83.3,MGR052
+AGT01149,Career Agent,South,Silver,2023-04-29,4,98,MGR032
+AGT01150,Career Agent,Northeast,Gold,2023-01-04,9,84.8,MGR025
+AGT01151,Brokerage,West,Developing,2013-01-06,9,89.5,MGR033
+AGT01152,Brokerage,West,Developing,2017-07-07,6,78.4,MGR040
+AGT01153,Direct Digital,Midwest,Developing,2017-06-25,16,96.8,MGR009
+AGT01154,Direct Digital,West,Silver,2022-11-09,4,98,MGR057
+AGT01155,Career Agent,South,Silver,2019-10-05,5,78.7,MGR036
+AGT01156,Career Agent,Northeast,Developing,2018-09-01,3,86.1,MGR068
+AGT01157,Direct Digital,West,Silver,2020-09-09,2,92.8,MGR086
+AGT01158,Brokerage,South,Developing,2016-03-27,8,86.1,MGR068
+AGT01159,Direct Digital,South,Silver,2023-12-06,9,83.6,MGR049
+AGT01160,Brokerage,Northeast,Silver,2015-12-19,19,86.4,MGR043
+AGT01161,Brokerage,South,Silver,2018-06-04,3,90.3,MGR025
+AGT01162,Brokerage,South,Silver,2018-02-11,2,84.4,MGR088
+AGT01163,Brokerage,West,Silver,2020-05-26,1,83.3,MGR035
+AGT01164,Brokerage,Northeast,Developing,2013-08-13,2,80.6,MGR076
+AGT01165,Bank Partner,South,Gold,2018-12-24,4,74.8,MGR067
+AGT01166,Worksite,Midwest,Developing,2018-01-12,2,86.2,MGR003
+AGT01167,Career Agent,West,Developing,2024-04-28,2,89.2,MGR071
+AGT01168,Brokerage,Midwest,Gold,2014-02-28,11,93.0,MGR004
+AGT01169,Direct Digital,Midwest,Developing,2024-12-05,14,80.6,MGR026
+AGT01170,Brokerage,South,Developing,2023-06-13,1,92.6,MGR058
+AGT01171,Brokerage,West,Gold,2020-06-16,19,81.4,MGR019
+AGT01172,Career Agent,South,Developing,2019-05-10,15,92.0,MGR016
+AGT01173,Bank Partner,Midwest,Gold,2021-04-07,0,97.4,MGR062
+AGT01174,Career Agent,South,Silver,2021-04-21,13,90.6,MGR031
+AGT01175,Career Agent,South,Silver,2024-11-28,9,89.4,MGR085
+AGT01176,Career Agent,South,Gold,2014-05-18,2,91.1,MGR069
+AGT01177,Career Agent,Northeast,Developing,2024-07-26,6,87.4,MGR021
+AGT01178,Brokerage,Midwest,Platinum,2015-11-20,1,82.5,MGR039
+AGT01179,Direct Digital,South,Gold,2018-01-11,3,74.5,MGR036
+AGT01180,Direct Digital,Northeast,Silver,2018-05-23,1,75.7,MGR054
+AGT01181,Career Agent,Midwest,Developing,2022-03-09,6,85.9,MGR089
+AGT01182,Brokerage,West,Silver,2014-04-05,14,81.5,MGR044
+AGT01183,Career Agent,West,Developing,2021-08-28,0,85.5,MGR063
+AGT01184,Worksite,South,Silver,2012-07-23,0,73.3,MGR025
+AGT01185,Bank Partner,West,Silver,2019-08-12,7,91.7,MGR073
+AGT01186,Career Agent,South,Silver,2012-03-07,0,89.1,MGR054
+AGT01187,Worksite,South,Silver,2018-08-21,4,85.3,MGR035
+AGT01188,Career Agent,Midwest,Developing,2023-06-26,2,79.2,MGR077
+AGT01189,Direct Digital,Northeast,Gold,2017-11-08,14,88.5,MGR080
+AGT01190,Brokerage,Midwest,Silver,2013-05-13,5,85.9,MGR072
+AGT01191,Bank Partner,Midwest,Gold,2017-04-23,12,98,MGR073
+AGT01192,Career Agent,Northeast,Silver,2024-07-15,0,82.0,MGR084
+AGT01193,Brokerage,South,Gold,2018-03-01,5,94.8,MGR055
+AGT01194,Career Agent,West,Developing,2020-02-25,1,96.4,MGR045
+AGT01195,Worksite,Midwest,Platinum,2024-02-12,4,91.6,MGR028
+AGT01196,Direct Digital,South,Gold,2013-06-01,8,95.2,MGR082
+AGT01197,Worksite,West,Silver,2016-12-10,0,94.0,MGR087
+AGT01198,Bank Partner,Midwest,Platinum,2012-10-25,4,98,MGR035
+AGT01199,Brokerage,West,Gold,2012-10-19,16,87.4,MGR063
+AGT01200,Bank Partner,South,Developing,2014-12-08,12,90.3,MGR007

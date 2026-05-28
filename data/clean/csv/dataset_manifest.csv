@@ -1,0 +1,14 @@
+file_name,row_count_excluding_header,size_mb,description
+agents.csv,1200,0.07,Synthetic producer/channel dimension.
+applications.csv,15000,1.97,"Life insurance applications, statuses, underwriting path, risk class, and quoted premium."
+beneficiaries.csv,14106,0.51,Beneficiary relationships and shares by policy.
+claims.csv,65,0.01,Synthetic death and accelerated benefit claims.
+customers.csv,12667,1.03,"Synthetic applicant/customer attributes without names, addresses, emails, or phone numbers."
+lapse_events.csv,818,0.04,"Lapse, reinstatement, and surrender events."
+mortality_table.csv,468,0.03,Illustrative age/sex/year mortality reference table.
+policies.csv,10637,1.47,Issued policy fact table with final policy status.
+policy_coverages.csv,16757,0.99,Base coverages and rider-level policy benefits.
+premium_payments.csv,134727,11.13,Scheduled and actual premium payment events.
+products.csv,7,0.00,"Product dimension for term, permanent, and final expense products."
+state_demographics.csv,51,0.00,Synthetic state-level demographic context.
+underwriting_evidence.csv,48690,3.81,Requirements and evidence gathered during underwriting.

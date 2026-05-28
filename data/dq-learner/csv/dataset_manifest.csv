@@ -1,0 +1,16 @@
+file_name,row_count_excluding_header,size_mb,description
+agents.csv,1200,0.07,
+applications.csv,15000,1.97,
+beneficiaries.csv,14106,0.51,
+claims.csv,65,0.01,
+customers.csv,12677,1.03,
+dataset_manifest.csv,13,0.00,
+dq_issue_catalog.csv,13,0.00,Documented data-quality issues intentionally injected for training.
+lapse_events.csv,818,0.04,
+mortality_table.csv,468,0.03,
+policies.csv,10637,1.47,
+policy_coverages.csv,16757,0.99,
+premium_payments.csv,134727,11.13,
+products.csv,7,0.00,
+state_demographics.csv,51,0.00,
+underwriting_evidence.csv,48690,3.81,
