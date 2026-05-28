@@ -3,7 +3,7 @@
 Use the DQ learner workbook:
 
 ```text
-data/dq-learner/life_insurance_dq_learner_1third.xlsx
+data/dq-learner/life_insurance_dq_learner.xlsx
 ```
 
 This workbook intentionally contains realistic data quality issues. The goal is for participants to find, explain, and prioritize issues before doing business analysis.

@@ -4,8 +4,8 @@
 
 Upload one workbook:
 
-- `data/clean/life_insurance_clean_1third.xlsx`
-- `data/dq-learner/life_insurance_dq_learner_1third.xlsx`
+- `data/clean/life_insurance_clean.xlsx`
+- `data/dq-learner/life_insurance_dq_learner.xlsx`
 
 Then use this prompt:
 

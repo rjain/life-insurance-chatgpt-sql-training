@@ -8,8 +8,8 @@ No live database connector is required. The primary workflow is to upload one Ex
 
 For most exercises, upload one of these files:
 
-- `data/clean/life_insurance_clean_1third.xlsx` - clean analytics dataset
-- `data/dq-learner/life_insurance_dq_learner_1third.xlsx` - learner version with intentional data quality issues
+- `data/clean/life_insurance_clean.xlsx` - clean analytics dataset
+- `data/dq-learner/life_insurance_dq_learner.xlsx` - learner version with intentional data quality issues
 
 Each workbook is about 12 MB and contains one worksheet per table.
 

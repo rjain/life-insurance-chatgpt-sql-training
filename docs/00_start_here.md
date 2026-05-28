@@ -9,8 +9,8 @@ The main idea: upload a structured workbook, ask ChatGPT to understand it as a r
 1. Open ChatGPT Enterprise.
 2. Select Thinking mode for dataset inspection, data-quality profiling, and complex SQL-style analysis.
 3. Upload one workbook:
-   - Clean analytics: `data/clean/life_insurance_clean_1third.xlsx`
-   - Data quality exercise: `data/dq-learner/life_insurance_dq_learner_1third.xlsx`
+   - Clean analytics: `data/clean/life_insurance_clean.xlsx`
+   - Data quality exercise: `data/dq-learner/life_insurance_dq_learner.xlsx`
 4. Paste the opening prompt from `prompts/opening_dataset_inspection.md`.
 5. Ask one exercise at a time.
 
