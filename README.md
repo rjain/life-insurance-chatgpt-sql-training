@@ -41,7 +41,6 @@ Then infer the joins and wait for my analysis question.
 docs/       Workshop instructions, dataset overview, metrics, and exercise guides
 prompts/    Copy/paste prompt templates for ChatGPT
 data/       Clean and data-quality learner datasets
-materials/  Participant handout and training deck
 ```
 
 ## Important Notes
